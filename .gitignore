@@ -1,0 +1,20 @@
+__MACOSX
+# OS generated files  
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Application specific files
+node_modules
+.sass-cache
