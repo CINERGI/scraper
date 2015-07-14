@@ -53,6 +53,7 @@ class MetadataSpider(scrapy.Spider):
 
             item = yield scrapy.Request(url, callback=self.parse_metadata)
             logging.info(item)
+
             json.dump(dict(item), f)
             f.write("\n")
             # Passes links to parse_metadata() function

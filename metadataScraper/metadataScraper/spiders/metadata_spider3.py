@@ -28,7 +28,7 @@ f = open(filename, 'w')
 # logger = logging.getLogger(__name__)
 
 class MetadataSpider(scrapy.Spider):
-    name = "sciencebase"
+    # name = "sciencebase"
     allowed_domains = ["hydro10.sdsc.edu"]
     start_urls = [
         "http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/"

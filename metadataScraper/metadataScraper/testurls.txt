@@ -1,3 +1,0 @@
-http://cinergi.cloudapp.net/geoportal/rest/document?id={11161776-58F6-4552-A0A2-DB9A6EEAB29D}
-http://cinergi.cloudapp.net/geoportal/rest/document?id={11F9E635-15B6-4C70-8563-7081B8814783}
-http://cinergi.cloudapp.net/geoportal/rest/document?id={12C37D9E-519D-4478-BE18-63F0C784F7E0}

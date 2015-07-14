@@ -1,12 +1,9 @@
-# Metadata Scraper v4
-# Scrapes metadata URLs from http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/
-# Passes URLs to metadata scraper to get links under <gmd:URL> tag, title, author
-# Run in terminal with scrapy crawl metadata
-# SAMPLE OUTPUT can be found in s3output.json
-# Date: July 8 2015
-# Quirk: the TO PARENT DIRECTORY url also gets scraped from hydro10 resulting in
-# an empty entry in the output json {"title": [], "author": []} because it
-# doesn't link to an xml document but rather goes up a level in the directory
+# Sciencebase Abstract Spider v1
+# Reads output json file from metadata_scraper for catalogItem URL
+# Concatenates ?json=True to catalogItem then visits page
+# Scrapes JSON for parentID; concatenates to sciencebase URL and visits page
+# Scrapes parent page for abstract using HTML paths
+# Date created: July 13 2015
 
 import scrapy
 # from scrapy import signals
@@ -19,10 +16,10 @@ from metadataScraper.items import MetadatascraperItem
 # timestamp = time.strftime("%Y-%m-%d_%H%M%S")
 # filename = "metadata_" + timestamp + ".json"
 filename = "SPIDER_METADATA_4.json"
-f = open(filename, 'w')
+f = open(filename, 'r')
 
 class MetadataSpider(scrapy.Spider):
-    name = "sciencebase"
+    name = "parentabstract"
     allowed_domains = ["hydro10.sdsc.edu"]
     start_urls = [
         "http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/"
@@ -58,3 +55,9 @@ class MetadataSpider(scrapy.Spider):
 
             json.dump(dict(item), f, sort_keys=True)
             f.write("\n")
+
+        '''
+        print "\n"
+        yield item # prints contents of MetadatascraperItem() from items.py
+        print "\n"
+        '''
