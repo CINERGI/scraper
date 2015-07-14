@@ -8,6 +8,9 @@
 # an empty entry in the output json {"title": [], "author": []} because it
 # doesn't link to an xml document but rather goes up a level in the directory
 
+# 7/14/15: Triple quotes at beginning and end only; took out fluff
+
+'''
 import scrapy
 from scrapy import signals
 from scrapy.selector import Selector
@@ -33,11 +36,6 @@ class MetadataSpider(scrapy.Spider):
     start_urls = [
         "http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/"
     ]
-
-    '''
-    def from_crawler(self, crawler):
-        crawler.signals.connect(ext.spider_closed, signal=signals.spider_closed)
-    '''
 
     def parse(self, response):
         # Finds all links to metadata XMLs on hydro10 directory page
@@ -88,16 +86,4 @@ class MetadataSpider(scrapy.Spider):
             # f.write("\n")
             # return item (back to the parse function)
             return item
-
-        '''
-        print "\n"
-        yield item # prints contents of MetadatascraperItem() from items.py
-        print "\n"
-        '''
-
-
-    '''
-    def spider_closed(self, spider):
-        logger.info(">>>>>>>>>>>>>>>>>>> SPIDER CLOSED <<<<<<<<<<<<<<<<<<<<<")
-        f.close()
-    '''
+'''

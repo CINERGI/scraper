@@ -5,6 +5,9 @@
 # Scrapes parent page for abstract using HTML paths
 # Date created: July 13 2015
 
+# 7/14/15: Triple quotes at beginning and end only
+
+'''
 import scrapy
 # from scrapy import signals
 from scrapy.selector import Selector
@@ -55,9 +58,4 @@ class MetadataSpider(scrapy.Spider):
 
             json.dump(dict(item), f, sort_keys=True)
             f.write("\n")
-
-        '''
-        print "\n"
-        yield item # prints contents of MetadatascraperItem() from items.py
-        print "\n"
-        '''
+'''

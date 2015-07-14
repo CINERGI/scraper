@@ -8,6 +8,9 @@
 # an empty entry in the output json {"title": [], "author": []} because it
 # doesn't link to an xml document but rather goes up a level in the directory
 
+# 7/14/15: Triple quotes at beginning and end only
+
+'''
 import scrapy
 from scrapy import signals
 from scrapy.selector import Selector
@@ -21,7 +24,7 @@ from metadataScraper.items import MetadatascraperItem
 # A class from items.py; copied from tutorial
 
 timestamp = time.strftime("%Y-%m-%d_%H%M%S")
-filename = "SPIDER_3_METADATA.json"
+filename = "SPIDER_METADATA_3-test.json"
 # filename = "metadata_" + timestamp + ".json"
 f = open(filename, 'w')
 
@@ -34,10 +37,9 @@ class MetadataSpider(scrapy.Spider):
         "http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/"
     ]
 
-    '''
-    def from_crawler(self, crawler):
-        crawler.signals.connect(ext.spider_closed, signal=signals.spider_closed)
-    '''
+
+    # def from_crawler(self, crawler):
+    #    crawler.signals.connect(ext.spider_closed, signal=signals.spider_closed)
 
     def parse(self, response):
         # Finds all links to metadata XMLs on hydro10 directory page
@@ -74,17 +76,18 @@ class MetadataSpider(scrapy.Spider):
             item['abstractMissing'] = False
 
 
-        '''
-        print "\n"
-        yield item # prints contents of MetadatascraperItem() from items.py
-        print "\n"
-        '''
+
+        # print "\n"
+        # yield item # prints contents of MetadatascraperItem() from items.py
+        # print "\n"
+
+
         # print type(item)
         json.dump(dict(item), f)
         f.write("\n")
 
-    '''
-    def spider_closed(self, spider):
-        logger.info(">>>>>>>>>>>>>>>>>>> SPIDER CLOSED <<<<<<<<<<<<<<<<<<<<<")
-        f.close()
-    '''
+
+    # def spider_closed(self, spider):
+        # logger.info(">>>>>>>>>>>>>>>>>>> SPIDER CLOSED <<<<<<<<<<<<<<<<<<<<<")
+        # f.close()
+'''
