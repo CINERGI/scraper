@@ -9,10 +9,10 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'tutorial'
+BOT_NAME = 'googleSearchScraper'
 
-SPIDER_MODULES = ['tutorial.spiders']
-NEWSPIDER_MODULE = 'tutorial.spiders'
+SPIDER_MODULES = ['googleSearchScraper.spiders']
+NEWSPIDER_MODULE = 'googleSearchScraper.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
