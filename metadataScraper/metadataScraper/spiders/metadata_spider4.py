@@ -41,20 +41,20 @@ class MetadataSpider(scrapy.Spider):
 
         if response.xpath('//abstract/CharacterString/text()').extract() == [u'REQUIRED FIELD']:
             item['title'] = response.xpath('//title/CharacterString/text()').extract()
-            item['author'] = response.xpath('//individualName/CharacterString/text()').extract()
+            #item['author'] = response.xpath('//individualName/CharacterString/text()').extract()
             for sel in response.xpath('//linkage'):
                 link = response.xpath('//URL/text()').extract()
 
                 for i in range(len(link)):
                     linkstring = str(link[i])
-                    if linkstring.find(".pdf") != -1:
-                        item['pdf'] = link[i]
-                    elif linkstring.find("file/get") != -1:
-                        item['download'] = link[i]
-                    elif linkstring.find("catalog/item") != -1:
+                    #if linkstring.find(".pdf") != -1:
+                        #item['pdf'] = link[i]
+                    #elif linkstring.find("file/get") != -1:
+                    #    item['download'] = link[i]
+                    if linkstring.find("catalog/item") != -1:
                         item ['catalogItem'] = link[i]
-                    else:
-                        item['otherLinks'] = link[i]
+                    #else:
+                    #    item['otherLinks'] = link[i]
 
             json.dump(dict(item), f, sort_keys=True)
             f.write("\n")
