@@ -57,5 +57,8 @@ class MetadataSpider(scrapy.Spider):
                     else:
                         item['otherLinks'] = link[i]
 
-            json.dump(dict(item), f, sort_keys=True)
-            f.write("\n")
+            # json.dump(dict(item), f, sort_keys=True)
+            # f.write("\n")
+
+            # temporary
+            yield item
