@@ -7,8 +7,7 @@
 # Quirk: the TO PARENT DIRECTORY url also gets scraped from hydro10 resulting in
 # an empty entry in the output json {"title": [], "author": []} because it
 # doesn't link to an xml document but rather goes up a level in the directory
-
-
+'''
 import scrapy
 # from scrapy import signals
 from scrapy.selector import Selector
@@ -50,12 +49,13 @@ class MetadataSpider(scrapy.Spider):
                     linkstring = str(link[i])
                     if linkstring.find(".pdf") != -1:
                         item['pdf'] = link[i]
-                    elif linkstring.find("file/get") != -1:
-                        item['download'] = link[i]
-                    elif linkstring.find("catalog/item") != -1:
-                        item ['catalogItem'] = link[i]
-                    else:
-                        item['otherLinks'] = link[i]
+                    #elif linkstring.find("file/get") != -1:
+                     #   item['download'] = link[i]
+                    #elif linkstring.find("catalog/item") != -1:
+                     #   item ['catalogItem'] = link[i]
+                    #else:
+                     #   item['otherLinks'] = link[i]
 
             json.dump(dict(item), f, sort_keys=True)
             f.write("\n")
+'''
