@@ -17,3 +17,6 @@ Follow Scrapy's Installation Guide to install:
 3. lxml
 4. OpenSSL
 5. Scrapy 
+
+
+(testing) 
