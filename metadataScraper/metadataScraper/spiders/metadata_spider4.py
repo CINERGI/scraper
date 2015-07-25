@@ -19,8 +19,8 @@ from metadataScraper.items import MetadatascraperItem
 
 # timestamp = time.strftime("%Y-%m-%d_%H%M%S")
 # filename = "metadata_" + timestamp + ".json"
-filename = "SPIDER_METADATA_4.json"
-f = open(filename, 'w')
+#filename = "SPIDER_METADATA_4.json"
+#f = open(filename, 'w')
 
 class MetadataSpider(scrapy.Spider):
     name = "sciencebase"
