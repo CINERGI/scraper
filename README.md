@@ -16,4 +16,4 @@ Follow Scrapy's Installation Guide to install:
 2. pip and setuptools Python packages
 3. lxml
 4. OpenSSL
-5. Scrapy 
+5. Scrapy
