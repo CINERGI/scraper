@@ -1,0 +1,511 @@
+UNITED STATE DEPARTMENT OF  THE  INTERIOR 
+
+GEOLOGICAL SURVEY
+
+Potassiurn-argon age dates and  the  thermal
+
+history of  the Tower  Peak quadrangle
+
+Central  Sierra Nevada,  California
+
+By
+
+Brent  D.  Turrin
+
+345 Middlefield Road 
+
+Menlo Park,  California  94025
+
+Open-File Report 84-151
+
+This  report  is  preliminary and  has  not  been  reviewed  for  conformity with U.S. 
+Geological  Survey editorial  standards and  stratigraphic nomenclarure.  Any use 
+of  trade names  is  for descriptive purposes  only and does  not  imply endorsement 
+by the  USGS.
+
+CONTENTS
+
+Abstract  ......................................................... 
+
+Introduction  ..................................................... 
+
+General Geology of  the  Tower  Peak Quadrangle  ..................... 
+
+Methods  .......................................................... 
+
+Results  and Discussion  ........................................... 
+
+Thermal  History and Depth  of Emplacement  ......................... 
+
+Conclusions  ...................................................... 
+
+Appendix I  ....................................................... 
+
+Appendix II  ...................................................... 
+
+Appendix  III  ..................................................... 
+
+Re ferences  ........................................................ 
+
+FIGURES AND  TABLES
+
+Figure  1:  Generalized geologic map  of  the  Tower Peak quadrangle.
+
+Geology  from Wahrhaftig  (unpublished data)............. 
+
+Figure  2:  Hap  unit  explanation .................................. 
+
+Figure  3:  Unit  correlation diagram showing intrusive relationships, 
+
+Wahrhaftig (unpublished data).  Plutonic units  young 
+upward within  the  columns.  The  arrows  point  from younger 
+units  to  the  older  units  that  they  intrude  ............. 
+
+Page
+
+1
+
+1
+
+3
+
+6
+
+6
+
+11
+
+17
+
+18
+
+18
+
+19
+
+20
+
+4
+
+5
+
+9
+
+Table  1:  Table  of age  data  ......................................  8
+
+Table  2:  Table  of cooling  temperatures  versus  time  ..............  14
+
+ABSTRACT
+
+Age dates  from  the  Tower Peak quadrangle  and surrounding area 
+demonstrate  that  there was a period of continuous  thermal-plutonic 
+activity  from about  100 Ma to 82 Ma,  during which time  four  large 
+plutonic  sequences  were emplaced.  This  period began with  the 
+emplacement of the Avonelle Lake adamellite,  approximately 100 Ma.  The 
+second plutonic event was  the  in emplacement of the  Fremont Lake-Topaz 
+Lake plutonic  sequence,  87  Ma to  82  Ma.  The  third plutonic  sequence, 
+the Mt.  Gib son-Lake Vernon plutonic sequence,  was emplaced 94 Ma to  87 
+Ma.  The  emplacement of  the Tuolumne Intrusive Suite,  87 Ma to  82  Ma, 
+concluded  this  period of plutonic  activity.  The  combined K-Ar,  Rb-Sr, 
+and U-Pb  age  dates  from  the  Mt.  Gibson-Vernon Lake plutonic  sequence, 
+Fremont Lake-Topaz Lake plutonic sequence,  and the  Tuolumne  Intrusive 
+Suite  indicate  that  each of  these  large Late Cretaceous plutonic 
+sequences was  emplaced over a period of 3-5 m.y.  and  that  the  times  of 
+emplacement were partially overlapping.  K-Ar age dates  from older 
+plutonic rocks within the Tower Peak quadrangle  indicate  that  the 
+thermal  effects  from the  emplacement of these  large plutons  extend at 
+least  3  km  into  the  adjacent  country  rock.  The  disparity between 
+hornblende and biotite K-Ar cooling ages  indicates  emplacement depths  of 
+2-6 km for  the  northern portion of  the  Cathedral  Peak unit of  the 
+Tuolumne  Intrusive  Suite  and  6-8 km for  the  Mt.  Gibson-Vernon Lake 
+complex.
+
+INTRODUCTION
+
+This  study was  undertaken  to  determine  the  ages  of plutonic rocks 
+
+in  the Tower Peak quadrangle,  which  is  located 175 km southeast of 
+Sacramento,  California,  in northern Yosemite National  Park.  The  25 
+Mesozoic  intrusive bodies within the  quadrangle are well exposed due  to 
+Pleistocene glaciation,  making it  relatively easy to determine intrusive 
+relations.  Potassium-argon age dates  for hornblende  and biotite mineral 
+pairs have been used  to  determine  the  cooling ages  of various  granitic 
+bodies within  the  Tower Peak quadrangle.  This  information was  used  to 
+examine  possible  emplacement depths  for  these Late Cretaceous  plutons, 
+and to develop a regional  cooling history for  this  portion of  the  Sierra 
+Nevada.  Additionally,  K-Ar dates have been used to  delineate episodes 
+of plutonic activity within the Tower Peak quadrangle  and adjacent 
+areas.
+
+The  Sierra Nevada Batholith  is  part of a continuous  belt of 
+
+Mesozoic granitic plutons  that extends  from Baja California northward 
+through  the  Sierra Nevada into  the Klamath Mountains  and  forms an east- 
+facing  arc  through  northwestern Nevada,  Idaho,  and back  through 
+northeastern Washington  to  southeastern Alaska  (Bateman  et  al.,  1963; 
+Schweickert,  1981).  Individual plutons within the Sierra Nevada 
+Batholith are dominantly tonalite  to  adamellite  in composition, with 
+relatively few small bodies of granite,  alaskite,  diorite,  and gabbro
+
+(Bateman et  al.,  1963).  Intrusive bodies within  the  batholith vary in 
+areal  extent  from  less  than 1  km  for  small  stocks  to  greater  than  1000 
+km  for  large  composite bodies.
+
+The  Sierra Nevada Batholith intruded Precambrian,  Paleozoic,  and 
+
+early Mesozoic  rocks  (Bateman and Wahrhaftig,  1966;  Dibblee,  1980). 
+Most of the plutons were passively emplaced.  Xenoliths of wall rock 
+showing all  stages  of assimilation are preserved within some  of the 
+plutons  that compose  the batholith,  implying that  stoping and crustal 
+assimilation were the principle mechanisms of emplacement (Kistler, 
+1966;  Ristler  and  Bateman,  1966;  Kistler,  Evernden,  and Shaw,  1971).
+
+The mountain range known as  the  Sierra Nevada  is  approximately 500 
+
+km  long  and  100  to  130 km wide and cuts  obliquely across  the  Sierra 
+Nevada Batholith.  Structurally,  the  Sierra Nevada Range  is  a westward- 
+tilted Cenozoic  fault block of Paleozoic and Mesozoic granitic and 
+met amor phic  rocks unconformably overlain on its west  flank by unde formed 
+uppermost  Cretaceous  and Tertiary volcanic and sedimentary rocks 
+(Curtis,  Evernden,  and Lipson,  1958;  Bateman  et  al.,  1963).
+
+Isotopic  age  data  obtained by Evernden and Ristler  (1970),  Stern et 
+al.,  (1981),  and  Chen  and Moore  (1982)  on plutons within  the  Sierra 
+Nevada indicate  the  following:
+
+1) 
+
+Plutons  range  in  age  from Trias sic  to Late  Cretaceous.
+
+2) 
+
+3) 
+
+A N20W- trending belt of Cretaceous  granitoids was  emp laced 
+across  a  belt of Jurassic  granitoids.
+
+The Cretaceous  intrusive sequence becomes progressively
+younger  eastward;  the  Jurassic  series  shows  no  such  relation.
+
+Based on K-Ar  and Rb-Sr  dating,  Evernden and Ristler  (1970) 
+
+proposed  that  the  Sierra Nevada Batholith was  emplaced during five 
+intrusive epochs,  each  lasting  10  to  20 m.y.  and  separated by  intervals 
+of approximately  30  nuy.  U-Pb  ages  reported by  Stern  et  al.,  (1981)  and 
+Chen and Moore (1982),  however,  provide only partial  support  for  five 
+cyclic  intrusive  epochs.  The U-Pb data  indicate  that:
+
+1) 
+
+2) 
+
+3) 
+
+Plutonism was more or  less  continuous between  210  and  155  m.y. 
+ago.
+
+Intrusion of large-volume plutons occurred about  120  to 80 
+m.y.  ago.
+
+A hiatus  of  about  35  nuy.  exists  between  the  Triassic-Jurassic 
+and  the  Cretaceous  intrusive  periods.
+
+Chen and Moore  (1982)  suggest  that  this hiatus  correlates with  a
+
+-  2  -
+
+change  in  the  regional  stress  field that  is  recorded by  the  Nevadan 
+orogeny  and  by  the  intrusion of the  Independence dike  swarm.
+
+GENERAL GEOLOGY OF  THE  TOWER PEAK QUADRANGLE
+
+The rocks  within the Tower Peak quadrangle are principally 
+
+granodiorite and adamellite but range  in  composition  from gabbro  to 
+leucogranite.  At  least 25 Mesozoic  intrusive events are represented by 
+discrete bodies with sharp vertical  to near-vertical  contacts 
+(Wahrhaftig,  written  comm.,  1983).  Tertiary  volcanic  and  sedimentary 
+rocks  and Mesozoic metavolcanic and metasedimentary rocks  outcrop 
+locally.
+
+In  the  Tower  Peak quadrangle,  an L-shaped body of older plutonic 
+and metamorphic  rock (JPmvr,  JPmvb,  JTbs,  J¥q,  JTms,  KJdi,  KJgd,  Kal, 
+Ktl,  Kpm,  Khl,  Khl a,  Kdl,  Lbp,Ka,  Kult,  Kgm,  and Klc)  forms  a  septum 
+between younger Cretaceous  composite plutons  to  the  north,  east,  and 
+southwest  (Figure  1).  This  body of older rock,  covering approximately 
+300 km2 ,  extends diagonally across  the  quadrangle,  both northeast  and 
+southeast.  Some  of  the  plutonic  rocks  within  this  older L-shaped body 
+show a metamorphic  foliation and  lineation.  Zones  of  intense  shearing 
+are  found  locally within  the  Harriet Lake granodiorite  (Khl),  Dorothy 
+Lake  granite  (Kdl),  and Bond Pass  granite  (Kbp).  The  shearing,  best 
+developed  in  the  Bond Pass  granite,  trends  approximately NAOW.  The 
+shear  texture  is  cut  in  turn by  the  Cathedral  Peak Granodiorite  (Kcp) 
+and  Fremont Lake  granodiorite  (Kf),  indicating  that  there was  a period 
+of tectonic activity  that  postdates  intrusion of  the Harriet Lake 
+granodiorite,  Dorothy Lake  granite,  and Bond Pass  granite  and predates 
+intrusion of the  Cathedral  Peak Granodiorite  and Fremont Lake 
+granodiorite.
+
+The  oldest rocks  in  the  Tower Peak quadrangle are metasedimentary 
+
+and metavolcanic  rocks  that  occur  as  roof pendants  and  septa.  The 
+metasedimentary rocks  include white  orthoquartzite,  thick units  of 
+biotite-sillimanite-andalusite schist, crystalline marble, and calc- 
+silicate  hornfels  (Wahrhaftig,  written  comm.,  1982).  The  structure  of 
+the metasediments  in  the  southwest  corner of  the  quadrangle  is  an 
+anticline with  vertical  limbs.  The northern body of metasedimentary 
+rocks  show evidence of at  least  two periods of deformation;  isoclinal 
+folding followed by deformation into a  flat-topped dome with vertical 
+flanks  along  intrusive  contacts  (Wahrhaftig,  written  comm.,  1982). 
+These  thick units of metasedimentary rocks  are  lithologically similar to 
+and are  tentatively correlated with the Kings  sequence of Bateman  and 
+Clark (197A),  and  are,  therefore,  considered Late Triassic  to  Early 
+Jurassic  in  age.  If  this  correlation  is  correct,  it  extends  the  known 
+occurrence  of  the  Kings  sequence  another AO km northwest.
+
+-  3  -
+
+119* 45' 
+
+38» 15'rr
+
+*J  38" 00' 
+
+119° 30'
+
+6 KM
+
+Figure  1.  Generalized  geologic map  of  the  Tower  Peak  quadrangle, 
+geology  from Wahrhaftig  (unpublished  data).  K-Ar  sample  locations  are
+indicated,
+
+difference  between hornblende  and  biotite  K-Ar  ages
+
+At m =  5-7  m.y.
+
+Atm =  7-9  m.y. 
+
+v^x
+
+3-5  m.y. 
+
+JL  =  biotite  K-Ar  age  only,
+
+- 4  -
+
+I- TERTIARY
+
+Voteantc  Mudflowt 
+and trachyandaalla  Complex  ot Brown B*ar Paas
+
+Baaattic  kttrualva
+
+$&:$
+
+:>;'.;.  Kl  ? :;:;:
+
+   '    Kcp    '  
+
+Adamallila 
+Whaalar  Paak 
+
+Granodiorlla 
+ol  Topaz  Lake 
+
+Cathadrtl Paak 
+Granodiorlte
+
+. -.'..'  KW .'. . .
+
+Adamallila 
+Boundary  Laka 
+
+:$$M
+
+Kl
+
+Qranodiorite 
+
+o<  Framont  Laka 
+
+:';':'- kic.'-;.'.1
+
+>^ Khd S  «
+
+Hall Dome 
+GranodiorHa
+
+i'l'Korn'I'I
+
+GranodlorHe 
+t  laka  Varnon 
+
+Granodiorlle 
+
+ot Long  Cenyon 
+
+Alaakita 
+
+ot Grace  Maadow
+
+'.'.'   Kblfld;-;-"
+
+; t ;Kpm 
+
+':  f
+
+£ ;, Kull  'Sf'
+
+-CRETACEOUS
+
+Granodiorlla 
+>t  Baarup  Lake 
+
+';'.-.'   Kmg  ':'.:':
+
+Quartz  diorlta 
+t Mount  Gibton 
+
+;  '.  . Kmp  .'  *  .
+
+Granodiortte
+ol Mahan  Paak
+
+vJ£;  Kal ;j£;
+
+Adamallite 
+
+1  Avonelle  Lake
+
+Granite 
+
+ot  Piute  Mountain 
+
+:-;$£$
+
+Alatkile  ol 
+Tan  Lukes
+
+Granite 
+
+ot Upper  Twin  Laka
+
+KB 
+
+''XKbp'.",!
+
+Aplil 
+Bond
+
+a  ot 
+Pata 
+
+Granite  of 
+Bond Patt
+
+v££:£:
+
+Granite  ol 
+Dorothy  Laka
+
+Khla 
+
+'.' .' .'  Khl ';' '  ',
+
+AplMe  ol  Granodiorlte 
+of Harriet  La
+
+Harriet  Lake 
+
+feiiii    JTg      -'JFbt  ' 
+
+;
+
+Malatedimantt  Ouarlzite 
+
+Biotite  Schitt
+
+Malarhyolite
+
+JURASSIC 
+
+OR 
+
+- 
+CRETACEOUS
+
+TRIASSIC 
+
+k 
+
+OR 
+
+JJURASSICC?)
+
+JURASSIC
+
+OR 
+
+PERMIAN(?)
+
+Figure  2.  Map  explanation.
+
+-  5  -
+
+Metavolcanic  rocks  outcrop  in  the northeast corner of the Tower 
+
+Peak quadrangle near  the West Fork of  the  West Walker River and  in  the 
+West Walker River drainage.  This volcanic sequence  is  composed of 
+intermediate  to  felsic  flows  and  tuffs.  Fiamme  can be  seen on weathered 
+outcrops  of the  metarhyolite,  indicating an ignimbrite protolith 
+(Wahrhaftig,  written comm.,  1982).  The  metavolcanic  rocks  within  the 
+Tower Peak quadrangle are  lithologicaly similar to and are tentatively 
+correlated with  the  lower Ritter Range  sequence of Fiske  and Tobisch 
+(1978)  and  are,  therefore,  probably Permian  to  Middle Jurassic  in  age.
+
+A complex of Tertiary volcanic and volcanoclastic rocks rests 
+
+unconformably on Mesozoic  granitic basement  in  the northern part of the 
+Tower Peak quadrangle.  The  oldest Tertiary unit  in  the  quadrangle  is  a 
+rhyolite  tuff of  the Valley Springs Formation.  Dalrymple (1963,  1964) 
+dated a series  of welded tuffs  from the Valley Springs  Formation 
+northwest of the  Tower Peak quadrangle  in  the  Sonora Pass  area of the 
+Dardanelles Cone  quadrangle,  at  25.7  Ma.  Other  age  dates  from  tuff 
+units  of  the  Valley Springs Formation range  from 19.9  to  33.2  Ma 
+(Slemmons,  1966).  Overlying the Valley Springs rhyolite  is  a complex of 
+andesitic  flows,  dikes,  sills,  and intrusive breccias of the  Mehrten 
+Formation.  Dalrymple  (1963,  1964)  reported age  dates  of 8.8  Ma  for  a 
+latite  flow within  the  Mehrten Formation northwest of the Tower Peak 
+quadrangle  in  the Dardanelles Cone  quadrangle and 8.9  Ma for  a  latite 
+flow south of  the  Tower Peak quadrangle  in  the  Hetch Hetchy quadrangle.
+
+METHODS
+
+Samples were  thin-sectioned and  examined under a petrographic 
+
+microscope  to determine  if  the  hornblende  and/or biotite were unaltered 
+and  suitable  for  K-Ar  age  dating.  Hornblende and biotite  concentrates 
+were  obtained using  standard mineral  separation  techniques  (Appendix  I). 
+Mineral  concentrates  of greater  than 99% purity were  then split for 
+potassium and  argon  analyses.
+
+Potassium analyses  were  done by  the  flame photometry method using 
+lithium  for  an  internal  standard (see  Appendix II).  Samples were put 
+into  solution by  fusing the mineral with  lithium metaborate and 
+dissolving the  resultant glass  in  nitric  acid.
+
+Argon extractions were  done  at  Stanford University using an 
+
+extraction system recently constructed by  the  author.  Procedures used 
+for  the  argon extractions  are  described by Dalrymple and Lanphere 
+(1969).  Argon analyses were  done  at  the  University of California, 
+Berkeley,  using a Reynolds-type  gas  source mass  spectrometer  in  the 
+laboratory of Garniss  Curtis.
+
+RESULTS AND DISCUSSION
+
+Potassium-argon dates  for  plutons within Tower Peak quadrangle
+
+-  6  -
+
+

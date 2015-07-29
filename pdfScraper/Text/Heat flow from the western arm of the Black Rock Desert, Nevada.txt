@@ -1,0 +1,392 @@
+U.S.  Department  of  the  Interior 
+
+Geological  Survey
+
+HEAT FLOW FROM THE WESTERN ARM OF THE BLACK ROCK DESERT, NEVADA
+
+by
+
+C.  W.  Mase  and  J.  H.  Sass
+
+U.S.  Geological  Survey  Open-File  Report  80-1238
+
+1980
+
+This  report  is  preliminary  and  has  not  been  reviewed  for  conformity 
+
+with  U.S.  Geological  Survey  editorial  standards  and  stratigraphic  nomenclature
+
+Abstract
+
+Heat-flow  values  for  12  new  sites  in  the  western  Black  Rock  Desert 
+
+range  from  56  mWm  2  to  over  500  mWm  2  near  Double  Hot  Springs.  Combining 
+
+these  results  with  over  20  values  obtained  by  Sass  and  others  (1979)  yields  a 
+
+mean  heat  flow  of  76  ±  4  mWm  2  outside  of  the  areas  of  anomalous  heat  flow 
+
+associated  with  thermal  spring  systems.  This  mean  is  significantly  lower  than 
+
+that  characteristic  of  the  Battle  Mountain  heat-flow  high  (>125  mWm" 2 )  and  is 
+
+of  doubtful  regional  significance  because  of 
+
+the  observed  hydrothermal 
+
+phenomena  and  because  some  of  the  recharge  for  the  systems  may  originate 
+
+within 
+
+the  basin.  The 
+
+lack  of  recent  volcanism 
+
+in  the  region  and  the 
+
+apparently  normal  Basin  and  Range  heat  flow  suggests 
+
+that  geothermal 
+
+systems  are  stable  stationary  phases  supported  by  high  regional  heat  flow 
+
+with  the  fluid  flow  governed  by  the  configuration  of  fractures  and  permeable 
+
+formations  and  forced  by  a 
+
+regional  piezometric  gradient  controlled  by 
+
+topography  and  precipitation.
+
+The  complexity  of  the  heat-flow  pattern  probably  arises  from  hydro- 
+
+thermal  circulation  supporting  the  numerous  hot  springs 
+
+throughout  the 
+
+region.  Upward  groundwater  flow  from  depths  of  from  2  to  6  km  can  maintain 
+
+the  temperatures  that  are  observed  for  hot  springs  in  the  western  Black  Rock 
+
+Desert.  Microearthquake  activity  indicates  active  fracturing  to  the  required 
+
+depths  of  circulation.  The  net  anomalous  heat  discharge  from  the  hot  spring 
+
+systems  is  estimated  at  34  MW  based  on  convective  and  conductive  heat  loss. 
+
+Steady-state  heat  transfer  by  moving  groundwater  in  a  normal  Basin  and 
+
+Range  heat-flow  environment  can  easily  provide  the  observed  power  loss.
+
+-  2  -
+
+INTRODUCTION
+
+Hydrothermal  activity  occurs  at  many  locations  along  the  margins  of  the 
+
+Black  Rock  Desert  in  northern  Nevada  (Waring,  1965;  Renner  and  others, 
+
+1975;  Brook  and  others,  1979).  The  youngest  volcanism  in  the  region  is 
+
+basaltic  and  has  been  dated  at  23  m.y.  (Grose  and  Sperandio,  1978),  too  old 
+
+to  represent  heat  sources  for  the  modern  hydrothermal  activity.  On  the  basis 
+
+of  high  thermal  gradients  in  wells,  high  heat  flow  in  contiguous  regions  and 
+
+the  observed  hydrothermal  activity,  Sass  and  others 
+
+(1979,  1980)  and 
+
+Lachenbruch  and  Sass  (1977,  1978)  have  included  the  Black  Rock  Desert 
+
+within  the  Battle  Mountain  heat-flow  high  (BMH,  Figure  1).  This  suggests 
+
+that  geothermal  systems  within  the  Black  Rock  Desert  may  be  the  result  of 
+
+deep  circulation  of  groundwater,  storage,  and  heating  within  a  reservoir  due 
+
+to  a  high  regional  heat  flow  with  subsequent  discharge  to  the  surface  through 
+
+permeable  conduits  within  fault  zones.
+
+The  present  work  was  undertaken  to  provide  additional  heat-flow  infor(cid:173) 
+
+mation  for  a  geothermal  resource  assessment  of  the  western  arm  of  the  Black 
+
+Rock  Desert.  The  assessment  is  primarily  the  responsibility  of  the  Water 
+
+Resources  Division  (WRD)  of  the  U.S.  Geological  Survey  and  the  Bureau  of 
+
+Land  Management  (BLM).  All  of  the  new  data  discussed  herein  were  obtained 
+
+from  holes  sited  and  drilled  by  WRD  (Alan  H.  Welch,  personal  communication, 
+
+1980;  Schaefer  and  others,  1980).  We  have  combined  the  data  from  12  new 
+
+heat-flow  sites  (Figure  2)  with  the  results  of  Sass  and  others  (1979)  in  an 
+
+attempt  to  determine  the  thermal  structure  of  the  western  Black  Rock  Desert, 
+
+to  delineate  the  extent  of  subsurface  thermal  features  and  to  ascertain  the 
+
+nature  and  origins  of  the  thermal  fluids  and  heat  sources.
+
+-  3  -
+
+IOOC
+T
+
+Figure  1.  Generalized map of heat flow and physiographic provinces  in
+
+the western U.S.  (after Lachenbruch and Sass,  1978;  Lachenbruch,  1978) 
+Abbreviations  are BMH,  Battle Mountain High;  SRP,  Snake River Plain; 
+IB,  Idaho Batholith;  Y,  Yellowstone;  RGR,  Rio Grande  Rift;  EL,  Eureka 
+Low;  LV,  Long Valley.  Arrow indicates present study area.
+
+-  4  -
+
+The  following  symbols  and  units  are  used  in  the  remainder  of  this 
+
+report:
+
+T, 
+
+temperature,  °C
+
+K, 
+
+thermal  conductivity,  W  m" l jC l ;  1  HCU  (meal  cm" 1 s" 1 °C" 1 )  =
+
+.418  W  m" 1  K" 1
+
+z, 
+
+depth,  m  positive  downwards 
+
+v  ,  vertical  (seepage)  velocity  m  s  l  or  mm  y  1  or  volume  flux  of  water
+
+2
+F, 
+
+vertical  temperature  gradient,  °C  km  *  or  K  km" 1 
+
+q, 
+
+vertical  conductive  heat  flow,  mWm  2  or  kW  km  2 , 
+
+or  HFU  (10~ 6  cal  cm" 1  s" 1 ): 
+
+1  HFU  =  41.8  mW  m~2
+
+Acknowledgments.  The  comments  of  Art  Lachenbruch  and  Alien  Welch 
+
+were  particularly  helpful  in  the  development  of  this  paper.  We  thank  Pete 
+
+Galanis  for  preparation  of  the  geologic  sketch  map  used  in  Figures  2,  4,  and 
+
+5.
+
+-  5  -
+
+GEOLOGIC  SETTING
+
+The  western  arm  of  the  Black  Rock  Desert  occupies  a  position  near  the 
+
+western  margin  of  the  Basin  and  Range  physiographic  province.  The  region 
+
+is  characterized  by  roughly  parallel  mountain  ranges  and  basins  having  a 
+
+north-northeast  trend.  The  region 
+
+is  one  of  currently  active  tectonism 
+
+marked  by  abundant  late  Pleistocene  and  Holocene  faults.  The  major  hot 
+
+springs  in  the  area,  Black  Rock  Point,  Double,  Fly  Range,  Gerlach,  Mud  and 
+
+Trego,  occur  on  or  very  near  faults  with  Quaternary  displacements.  Surficial 
+
+tension  cracks  (interpreted  as  tectonic  in  origin,  Grose,  1978),  fault  patterns 
+
+and  seismic 
+
+focal  mechanisms 
+
+indicate  active 
+
+tectonic  spreading  along  a 
+
+WNW-ESE  axis  in  the  western  Black  Rock  Desert  region  (Kumamoto,  1978). 
+
+This  pattern 
+
+is  consistent  with  a  relatively  uniform  WNW-ESE  extension 
+
+direction  throughout  northern  Nevada  (Zoback  and  Thompson,  1978).  The 
+
+geologic  setting  of  the  western  Black  Rock  Desert  is  summarized  in  Figure  2. 
+
+The  geologic 
+
+information 
+
+in 
+
+the  figure 
+
+is  generalized 
+
+from  Grose  and 
+
+Sperandio  (1978),  Bonham  (1969),  and  Wilden  (1964).
+
+The  ranges  surrounding  the  western  Black  Rock  Desert  are  composed 
+
+largely  of  Cretaceous  granodiorite,  Permo-Triassic  meta-volcanic  and  meta- 
+
+sedimentary  rocks  and  late  Oligocene  -  early  Miocene  rhyolitic,  andesitic,  and 
+
+basaltic  sequences.  Valley  fill  includes  late  Tertiary  and  Quaternary  fluviatile 
+
+and 
+
+lacustrine 
+
+sediments 
+
+that  were  deposited  concurrently  with  normal 
+
+faulting.
+
+-  6  -
+
+119°30'
+
+119°00'
+
+Nfitack  Rock  Point
+
+Rock  Fault
+
+Oo|  Quaternary  playa,  lake,  alluvial  fan,  and 
+
+dune  deposits
+
+Pre-Quaternary  volcanic  rocks  and  meta- 
+
+morphic  rocks
+
+r}^  Granodiorite  (foliated  southwest  of  Gerlach) 
+
+Contact
+
+    Fault
+
+Hot  Springs
+
+Figure 2.  Geologic sketch map of the western Black Rock Desert and 
+
+adjoining ranges.  Geology and faults  generalized from Grose 
+and Sperandio  (1978),  Bonham (1969),  and Wilden  (1964). 
+Small dots  indicate control from Sass  and others  (1979).
+
+-  7  -
+
+GEOTHERMAL GRADIENT AND HEAT-FLOW DATA
+
+The  most  recent  temperature-depth  profiles  for  12  new  heat-flow  sites  in 
+
+the  southern  Black  Rock  Desert  are  shown  in  Figure  3.  Based  on  thermal 
+
+considerations,  Lachenbruch  and  others  (1976)  have  suggested  the  thermal 
+
+gradient  profiles  for  areas  within  or  near  hydrothermal  systems  be  divided  up 
+
+into 
+
+three  distinct  groups. 
+
+The 
+
+three  groups  are  considered 
+
+to  be 
+
+characteristic  of  regions  with  hydrologic  recharge  (Group  I),  regions  with 
+
+conductive  regimes  to  substantial  depths  (Group  II)  and  regions  of  hydrologic 
+
+discharge  (Group  III).  Group  I  boreholes  (BR06  through  BR11,  Figure  3) 
+
+yield  significantly  low  gradients  (53  to  85  °C  km' 1  compared  to  an  expected 
+
+gradient  of  ~120  °C  km  1 
+
+for 
+
+the  playa 
+
+if 
+
+the  heat 
+
+flow 
+
+is 
+
+indeed 
+
+characteristic  of  the  BMH)  suggesting  that  heat  from  below  is  being  absorbed 
+
+by  downward  movement  of  water,  a  condition  characteristic  of  hydrologic 
+
+recharge.  The  upper  parts  of  the  temperature  profiles  from  these  boreholes 
+
+show  the  influence  of  upward  water  movement  probably  due  to  discharge  from 
+
+a  shallow  subsystem  within  the  playa  sediments.  Group  II  boreholes  (BR01 
+
+and  BR04,  Figure  3)  yield  a  gradient  and  heat  flow  comparable 
+
+to  the 
+
+hydrologically  undisturbed  regional  value  (^125  mWm  2 ),  suggesting  that  heat 
+
+transfer  is  accomplished  primarily  by  conduction.  Group  III  boreholes  (BR02, 
+
+BROS,  BR05,  and  BR12,  Figure  3)  have  thermal  gradients  that  are  generally 
+
+quite  large  and  variable  with  depth,  a  characteristic  influence  of  upward 
+
+and/or 
+
+lateral  convection  of 
+
+thermal  fluids 
+
+through  fracture  zones  or 
+
+vertically  permeable 
+
+formations. 
+
+The  high-frequency  excursions 
+
+in 
+
+the 
+
+temperature  profiles  for  boreholes  BRIO  and  BR11  are  attributed  to  the 
+
+presence  of  gas  bubbles  observed  streaming 
+
+from 
+
+the  borehole  during 
+
+logging.
+
+-  8  -
+
+

@@ -1,0 +1,1945 @@
+UNITED STATES  DEPARTMENT OF THE  INTERIOR 
+
+GEOLOGICAL SURVEY
+
+THERMAL CONDUCTIVITY OF SOME ROCK-FORMING MINERALS:  A TABULATION
+
+By 
+
+William H.  Diment 1  and Howard R.  Pratt 2
+
+Open-File Report 88-690
+
+This  report  is  preliminary and has not been reviewed for  conformity with U.S. 
+Geological Survey editorial  standards  and stratigraphic nomenclature.
+
+1 Denver,  Colorado 
+
+2 SAIC
+
+10210  Campus  Point  Dr.
+San Diego,  California  92121
+
+1988
+
+Thermal Conductivity of Some Rock-Forming Minerals:  A Tabulation
+
+By William H.  Diment and Howard R.  Pratt
+
+INTRODUCTION
+
+This  compilation supplements Robertson's  (1988)  study of the  thermal 
+properties  of rocks.  The data were discussed by Diment  (1967)  and a version 
+of table  1  circulated about  that  time.  The  table was  subsequently updated to 
+1969  and an edited version of that  table is  presented here.  The  table 
+contains measurements  from the  literature  as  well  as  those we made  in  the 
+laboratory.  Our data are  identified by listing sample  source but no reference 
+in  the  "Remarks"  column of  the  table.
+
+Our measurements,  as  well  as  those  in the  literature prior to  1969,  were 
+mostly made  on relatively large  samples  (in our case 0.64 x  3.81  cm machined 
+disks).  This means  that  in studying monomineralic  aggregates,  we must expect 
+some  impurity and some porosity.  However,  information on anisotropy can be 
+obtained by cutting  the  disks  in appropriate  directions.  In more  recent 
+years,  Horai  and Simmons  (1969)  and Horai  (1971)  used a needle probe  technique 
+to  measure  the  conductivity of finely ground samples  of minerals.  Great 
+purity of sample  can be  achieved,  but all  information as  to  anisotropy  is 
+lost.  Moreover,  questions  remain as  to  the  systematics  of the  orientation of 
+small  grains  in  the needle probe cell  and the  correction for  fluid content. 
+Comparison between the  disk and needle-probe measurements  is  fairly good,  but 
+the  scatter  is  large,  as  might be  expected.
+
+Our  principal  conclusions  remain as  they were circa  1967  (Diment,  1967), 
+namely:
+
+1.  Substitution of a heavier cation for a lighter one  in an  isomorphous 
+series usually reduces  the  thermal conductivity as  demonstrated by 
+measurements  on some  oxides,  silicates,  carbonates,  and sulfates.
+
+2.  A plot of conductivity versus  density suggests  that minerals  of  the  same 
+
+mean atomic weight  increase  in conductivity with density  in a manner 
+analogous  to  that noted by Birch  (1960,  1961)  for  the velocity of 
+compressional waves,  although the  situation for conductivity  is  more 
+complex.
+
+3.  The  sheet  silicates  investigated are  all  anisotropic by a  factor between 5 
+
+and 6  but the principal conductivities differ considerably.  The  true 
+micas  exhibit principal  conductivities  of about 2  and 12  meal/cm sec  deg 
+C,  perpendicular and parallel respectively to  the plane of perfect 
+cleavage.  The  conductivities  can be  somewhat  less  than this,  depending 
+on the  amount of iron and layer-bonding imperfections.  For talc  and the 
+chlorites,  the perpendicular and parallel  conductivities are  about 4  and 
+24 meal/cm sec  deg C.  Measurements  on aggregates  of pyrophyllite  and 
+serpentine  suggests  that pyrophyllite belongs with  the  talc-chlorite 
+group and that  serpentine  is  closer to  the micas  or  intermediate  in 
+conductivity.
+
+4.  The range  in values  obtained for a given mineral,  particularly that for  a 
+monomineralic aggregate,  often exceed 10 percent because of  impurities, 
+alteration,  imperfection,  and a  small but significant porosity.  Thus, 
+most values,  especially those measured at  low pressures,  may be  too 
+low.
+
+COMMENTS AFFECTING CALCULATION OF CONDUCTIVITY OF ROCK 
+
+FROM MINERAL COMPOSITION
+
+A few generalizations  regarding the  conductivity of rocks  follow from this  and 
+other  studies  cited in the  references:
+
+1.  Foliated rocks  such as  quartz-mica schists,  green schists,  and gneisses 
+
+exhibit a mean anisotropy  (ratio  of conductivity parallel  and 
+perpendicular to plane of  foliation)  of about 1.3  (for  example,  Diment 
+and Werre,  1964;  Robertson,  1988,  table  2).
+
+2.  The  degree  of alteration of rocks  is  important  in determining their
+
+conductivities.  For example,  ultramafic  rocks  are usually serpentinized 
+to  some  degree;  thus,  their conductivities  are  somewhat lower  than would 
+be  suspected both because of the  low conductivity of  the  serpentine  and 
+its  peripheral  distribution about  the unaltered crystals.  The  amount of 
+chlorite  in mafic rocks  is  the most  important variable  in  controlling 
+their conductivity.  Unaltered basalts,  diabases,  and gabbro have 
+conductivities  of about 5,  whereas  in the  green schist facies  their 
+conductivity  is  between 8  and 9  (for example,  Birch,  1954).  As  the 
+degree of metamorphism increases  further,  conductivities decrease as  the 
+amphiboles  and micas  increase  at  the  expense of the  chlorites.
+
+3.  The  conductivities  of a  surprising number of  igneous  and metamorphic  rocks 
+
+The distribution is  especially peaked when 
+
+fall between 6.5  and 8.5. 
+the  average of  the principal conductivities  of  the  foliated rocks  is 
+used.  Thus we  suppose  that regional contrast  in  conductivity has  little 
+effect on heat  flow,  except  in rather  special  situations.  However, 
+local  refraction effects may be sizable where rocks  of anomalous 
+conductivities  are present:  the purer quartzites  (12-15),  unaltered 
+ultramafic rocks  (^13),  dolomitic marbles  (^12),  anorthosites  and 
+unaltered mafic rocks  (^5).
+
+EXPLANATION OF SYMBOLS AND ABBREVIATIONS FOR TABLE  1
+
+Sample No.  Assigned sample number  indicates  that measurement was made  in our 
+
+laboratory. 
+obtained from literature or  from another  source.  See  Remarks  column.
+
+No  sample number means  that conductivity measurement was 
+
+Mineral.  Chemical  formulae are  generally for pure end members  and are  the
+
+formulae to which the  theoretical densities  (column 7)  correspond.  For 
+many samples,  the  chemical  composition is  poorly known.
+
+Conductivity.  Brackets mean that measurement was made on the  same  sample  at 
+different temperature,  pressure,  or degree of saturation.  Parentheses 
+indicate  that  there  is  some  reason to  suspect the value,  that  is,  a  large 
+departure of observed density from theoretical density,  or systematic 
+discrepancies  in values  in a given report.The measurements were made  in 
+an apparatus  similar  to  that described by Birch  (1950).
+
+Orientation and state.  | 
+
+|  and _|_,  directions  of maximum and minimum
+
+conductivity of a  crystal or an aggregate.  A,  aggregate;  xl,  crystal. 
+Occasionally direction is  given with respect to  a  crystal  face.  R and S, 
+shelf dried and saturated conditions.  MIX,  determinations  of Horai  and 
+Simmons  (1969)  made on mixtures  of crystals  and fluid with values derived 
+from the variational bounds.
+
+Porosity.  The porosity was  determined from the  difference  in weight of water- 
+
+saturated sample  (water  immersion under partial vacuum)  and a  dried 
+sample  (heated under partial vacuum at 80  °C).
+
+Measured density.  Measured density was  computed from weight and measurement 
+
+of linear dimensions.  Weight used is  room dried or saturated,  depending 
+on the  state  given in  "Orientation and state".  A few samples were 
+chipped prior to weighing,  thus  density may be low.
+
+Theoretical density.  Data  from Robie,  and others  (1966).  They refer  to 
+
+idealized formula given under  "Mineral".
+
+Temperature.  The  temperature at which the conductivity measurement was made. 
+
+Pressure.  The axial pressure on the  sample.
+
+Remarks.  Wards,  sample  from Wards Natural Science Establishment,  Inc.;  USNM, 
+sample  from U.S.  National Museum:  their number follows  in parentheses. 
+X-ray,  indicates  that composition was verified by X-ray diffraction. 
+Heavy reliance has been placed on Clark's  (1966)  tabulation,  and in some 
+cases  the original  sources have not been checked.
+
+Saaple 
+No. 
+
+Mineral 
+
+Condue- 
+tlvity 
+( cal/
+C».S.-C)
+
+a  Quartz ............
+
+675
+
+199 
+
+198
+
+511 
+
+Flint...............
+
+500
+
+Opal................
+
+Or t hod as e 
+KAlSi.O..
+
+Mlcrocline 
+KA 131,0..
+
+Microcline  perthlte..
+
+Albite 
+
+NaAlSijO,.
+
+Ollgoclase 
+Ab,,An l2 .
+
+  
+
+Labradorlte 
+
+Ab»,An.,
+
+Labradorlte 
+Abj,An, ,..
+
+Ab 20An, 0 -
+
+Anorthosite  bytounite
+
+21.3 
+
+11.7
+
+16.1 
+16.1 
+16.5 
+16.5 
+16.2
+
+17.1 
+17.3
+
+13.0 
+13-2 
+13.1 
+13-2
+
+8.1 
+8.1
+
+3-3 
+3-3
+
+3.3
+
+5.8 
+6.1 
+6.0 
+5.1 
+5.0
+
+5.6 
+
+5.5
+
+6.5
+
+5.2 
+6.9 
+6.3 
+5.9
+
+5.6
+
+1.8 
+1.8 
+1.8
+
+1.2
+
+1.0 
+
+1.1
+
+6.5
+
+1.3 
+
+1.5
+
+TABLE 1 . Thermal  conductivity of  rock-forming minerals
+
+Orlen-  Porosity 
+tation  (percent)  Meaa-  Theore- 
+and 
+tical 
+state 
+
+Density 
+
+(g/OB1 )
+
+tared 
+
+Temper-  Pressure 
+ature 
+(bars) 
+(*C) 
+
+Remarks
+
+Silica  group
+
+    2.618 
+
+    2.618
+
+0.1 
+.1 
+.2 
+.0 
+.0 
+
+2.50     
+2.63     
+2.51      
+2.63      
+2.63     
+
+___ 
+   
+
+   CO 
+ y  eft 
+
+__ .___
+_____
+
+2.60 
+
+    
+
+1.89     
+1.89     
+
+Feldspar  group
+
+2.55±
+
+2.58     
+
+2.56
+
+2.62±
+
+2.61     
+2.61    
+
+2.70    
+
+2.71     
+
+2.71    
+
+    2.76± 
+
+    2.70 
+
+2.71*    
+
+II 
+
+1
+
+A/R 
+A/R 
+A/R 
+A/R 
+A/S
+
+A/R 
+A/R
+
+A/R 
+A/R 
+A/R 
+A/R
+
+A/R 
+A/R
+
+A/R 
+A/R
+
+Glass
+
+100/R 
+010/R 
+001  /R 
+100/R 
+001  /R
+
+MIX 
+
+001  /R
+
+001  /R
+
+100/R 
+010/R 
+001 /R 
+001  /R
+
+A/R
+
+001  /R 
+A/R
+rax
+
+A/R
+
+A/R 
+
+A/R
+
+001 
+
+MIX 
+
+A/R
+
+30 
+
+30
+
+35 
+35 
+35 
+35
+
+30 
+30
+
+30 
+30 
+30 
+30
+
+30
+30
+
+30 
+30
+
+30
+
+25
+
+25 
+25
+
+25
+
+25 
+
+25
+
+25 
+
+25
+
+25 
+30
+
+30
+
+30 
+
+30 
+
+25
+
+Birch  and  Clark  (1910)  from 
+
+curve  of  K  versus  T. 
+
+Ratcliff  (1959)  from  curve 
+
+Of  K  versus  T.
+
+Wards.  White  xls  <0.1  an.
+
+Wards.  Colchester,  Vt.  Brick 
+
+red,  massive;  "6  percent 
+hematite.
+
+Wards,  Joplin,  Mo.  Light  gray, 
+
+xls  <0.1  an.
+
+31 
+31 
+31 
+31
+
+25 
+100
+
+25 
+100 
+25 
+100
+
+25
+"  100
+
+Wards.  Dover  Cliff,  England. 
+Dark  gray,  xls  <0.1  an.
+
+25 
+100
+
+Wards.  Virgin  Valley,  Nev. 
+
+White,  xls  <0.1  mm.
+
+Ratcliffe  (1959)  from  curve  K 
+
+versus  T.
+
+Sass  (1965,  p.  1016).  Plenty  River, 
+
+Northern  Territory,  Australia.
+
+Sass  (1965).  Olary,  southern  Australia. 
+Sass  (1965).  Broken  Hill,  N.S.W., 
+
+Australia. 
+
+Moral  and  Slmmons  (1969).
+
+Sass  (1965).  Londonderry,  Western 
+
+Australia.
+
+Sass  (1965).
+
+Sass,  1965.  Londonderry,  Western 
+
+Australia.
+
+Sass,  1965,  Spargovllle,  Western 
+
+Australia.
+
+Sass  (1965).  Londonderry,  Western 
+
+Australia.
+
+  
+
+Sass  (1965).  Langesurd  Fjord,  Norway. 
+Birch  and  Clark  (1910).  Sylmar.  Pa., 
+Moral  and  Simmons  (1969).
+
+Birch  and  Clark  (1910).  Quebec.  1J 
+quartz,  1.6?  serlcite,  serpentine, 
+and  carbonate.
+
+Birch  and  Clark  (1910).  Stlllwater 
+
+complex,  Montana.
+
+Birch  and  Clark  (1910).  Transvaal. 
+
+5J  pyroxene.
+
+Sass  (1965).  Albany,  N.Y. 
+
+Moral  and  Simmons  (1969). 
+
+100
+
+Birch  and  Clark  (1910).  Transvall.
+
+TABLE 1.  Thermal conductivity of rock-forming minerals Continued
+
+e 
+
+Saapl
+Mo.
+
+Mineral
+
+Conduc(cid:173)
+tivity
+( eal/
+ta.s.'C)
+
+Orien(cid:173)
+tation
+and  '
+state
+
+671
+
+666
+
+Sodalite
+
+Na.(AlSiO,),Cl 2 .
+
+Nepheline
+NaAlSiO,
+
+  
+
+Dunite  (Fosterite)
+
+Mg 2 SiO...
+
+391
+
+Dunite. ..............
+
+. 
+
+Dunite.. ............
+
+__
+
+Dunite. ..............
+
+. 
+
+  
+
+Hortonolite dunite
+
+(Mg,Fe) 2 SiO».
+
+509
+
+Dunite  (Fayalite).. .,
+
+668
+
+Mont i eel lite
+
+CaMgSiO,.
+
+7.5
+7.7
+7.5
+
+3.3
+3.2
+3.5
+
+10.6
+12.2
+10.5
+
+13-1
+8.9
+
+10.1
+10.3
+
+15.2
+13.2
+
+8.7
+
+9.1
+9.0
+9.3
+9.1
+
+7.9
+7.7
+7.8
+
+A/R
+A/S
+A/R
+
+A/R
+A/S
+A/R
+
+A/R
+A/R
+A/R
+
+I  l /s
+1/3
+
+A/S
+A/S
+
+II
+1
+
+A
+
+A/R
+A/R
+A/R
+A/R
+
+A/R
+A/S
+A/R
+
+Porosity 
+(percent)  Heas-  Theore-
+tical
+
+Density 
+
+ured 
+
+(g/e»«)
+
+T
+
+'caper-  Pressure
+ature 
+( C)
+
+(bars)
+
+Remarks
+
+Feldspathoids
+
+0.0 
+.0 
+.1 
+
+2.29    
+2.29    
+2.30
+
+2.623
+
+2.60 
+2.60
+2.58    
+
+Olivine group
+
+35 
+31
+    
+    
+
+35 
+31
+    
+    
+
+Wards.  Bancroft,  Ontario.  Royal  Blue.
+
+Average xl  diameter 1  mm.  X-ray.
+
+Wards.  Bancroft,  Ontario.  White.
+
+massive.  X-ray.
+
+3.27-  3.211
+3.25    
+   
+  
+
+   
+
+30
+    
+    
+
+_
+ 
+
+3.10   
+3.13   
+
+3-12   
+3.12   
+
+3.76   
+
+1.393
+
+1.21 
+1.21
+1.26    
+1.26    
+
+33 
+32 
+
+32 
+32 
+
+21
+21
+
+-20
+
+30 
+30 
+30 
+30 
+
+50
+50
+
+50
+50
+
+25
+100
+25
+100
+
+Birch and Clark  (1910;  tables  3,  5,  7).
+Balsam Gap,  N.C.  Average xl  diameter
+1  mm.  97  percent Olivine Fo, 2 Fa,,
+serpentine,  1  percent hornblende.
+chromite,  carbonate.
+
+Sample from E.C.  Robertson.  Addle,  N.C.
+
+Fine grained,  vaguely banded.
+
+Sample from E.C.  Robertson.  Macon City,
+
+Corundum Hill,  N.C.
+
+Diment  (1961);  from F.  Birch  (unpub.
+
+data).  Twin Sisters,  Wash.  Slightly
+less serpentinized than dunite from
+Balsam Gap.
+
+Clark  (1966,  p.  163).  Bushveld,
+
+Transvaal .
+
+Wards.  Rockport,  Mass.  Fa,,.,,  Fo,.,
+
+X-ray.
+
+1.7 
+1.7 
+1.8 
+
+3.016
+
+3.03 
+3.03   
+3-01
+
+31
+35 
+:      
+   
+  
+
+Wards.  Crestmore,  Calif.  Massive,  dark
+
+yellow brown.  X-ray.
+
+Pyroxene group
+
+398
+
+Jadeite
+
+NaAlSijO..
+
+15.1
+
+A/R
+
+3.31 
+
+3.32
+
+399
+
+Jadeite..............
+
+. 
+
+11.3
+
+A/R
+
+3.11 
+
+3.31
+
+  
+
+Hypersthenite
+(Mg.Fe)SiO,.
+
+10.3
+
+A
+
+3.26   
+
+3.27   
+
+3.29   
+
+Enstatite............
+
+11.8
+
+MIX
+
+Bronzitite
+
+(Mg.Fe)SiO,.
+
+9.68
+
+Diopside
+
+CaMgSijO..
+
+Diopside. ............
+
+Augite
+
+Ca(Mg.Fe.Al)
+(Al,Si) 20..
+
+10.2
+
+10.8
+
+9.9
+10.1
+10.1
+
+A
+
+A
+
+MIX
+
+A/R
+A/R
+A/S
+
+__
+
+__ _
+
+  
+
+__
+
+673
+
+____
+
+Pvroxenite..... ......
+
+9.70
+
+A
+
+3.31
+
+31 
+
+31 
+
+30
+
+30
+
+50
+
+50
+
+USNM  (112701).  Burma.  Light-green
+xls <1  mm.  0.3 sample altered to
+unknown light-brown material.
+
+USNM  (112538).  Manzanal,  Montagua
+Valley,  Guatemala.  Uniform light
+green,  xls <1  mm.
+
+Birch and Clark  (1910;  tables  3,  5,  7).
+Stillwater complex,  Montana.  Mean xl.
+diameter 2.5  mm.  93.5$ hypersthene
+(Mg/Fe,).  1$  hornblende,  2.5*
+magnetite and hornblende.
+
+Horai and Simmons  (1969).
+
+Birch and Clark  (1910;  tables  3,  5,  7).
+
+Pilansberg,  Transvaal.  Mean xl
+diameter 2.5 mm.  92.5$ bronzite,
+3.8$ plagioclase,  1.7$ hornblende,
+2$ magnetite.
+
+3.21 
+
+3.277
+
+    
+
+F.  Birch  (unpub.  data).
+
+3.27    
+
+_
+
+Horai and Simmons  (1969).
+
+.7 
+.6 
+.6 
+
+3.11   
+3.11
+3.11
+
+35 
+31
+    
+    
+
+-20
+
+Wards,  Hybla,  Ontario.  Cleavage
+
+fragments.  Greenish black.  X-ray.
+
+Clark  (1966.  D.  163).  Cleveland
+
+Peninsula,  southeast Alaska.  Mean 
+of 3.
+
+TABLE 1. Thermal  conductivity of  rock-forming minerals Continued
+
+Saaple 
+ o. 
+
+Mineral 
+
+Conduc-  Orien-  Porosity 
+tiTltjr 
+( cal/ 
+
+tat ion  (percent)  Heaa-  Theore-
+and 
+tical
+
+Density
+
+Pressure 
+
+(bars)
+
+ature 
+(*C)
+
+Remarks
+
+cB*s«*C)  state 
+
+ured 
+
+(g/ca*)
+
+    Pyroxenite.
+
+8.68
+
+    Pyroxenite........... 
+
+11.8
+
+388 
+
+Pyroxenite.
+
+7.9 
+8.2 
+7.6
+
+A/S 
+A/S 
+A/S
+
+3.25
+
+3.29
+
+3.50
+3.18
+3.43
+
+521 
+
+Tremolite
+
+669 
+
+Actinolite
+
+661
+
+Hornblende
+
+NaCa,(Mg,Fe,Al) 
+(S1,A1).0 I2 (OH) 2 .
+
+    Hornblende........... 
+
+10.8
+11.0
+13.7
+11.1
+
+7.1 
+12.6 
+13.0 
+
+1.5 
+6.9 
+6.3 
+
+6.5 
+
+   Hornblendite......... 
+
+6.75 
+
+   Hornblendite......... 
+
+7.16 
+
+    Muscovite 
+
+KAl 2 (AlSi,0,.)(OH) 2 . 
+
+191 
+
+Muscovite............ 
+
+1.67 
+1.71 
+
+9-3 
+9.3 
+1.22 
+1.26 
+
+    Phlogopite........... 
+
+12 
+
+515 
+
+Phlogopite........... 
+
+190 
+
+Biotite.............. 
+
+1.1 
+1.2 
+1.1 
+1.2 
+8.3 
+8.1 
+
+1.21 
+1.28 
+
+i/R
+
+i/R
+|I/R
+j|  |/S
+
+i/R
+TI/R
+II/R
+
+MIX
+
+A
+
+A
+
+j/R
+i/S
+
+|/R
+I/R
+./R
+"/R
+
+|I/R
+
+_/R
+"/R
+" /R
+"/R
+"|/R
+I/R
+
+J/R
+J/R
+
+518 
+
+Biotite.............. 
+
+7.5 
+
+||/R
+
+517 
+
+Lepidolite 
+
+1.13 
+K(Li 2 ,Al)Si,0,,(OH) 2 .  1.15 
+
+521 
+
+Lepidolite........... 
+
+516
+
+Pyrophyllite 
+
+Al 2 Si»0,.(OH) 2 .
+
+5.5 
+5.5 
+
+2.6
+2.7 
+2.7 
+3-0 
+12.2
+
+i/R
+i/R
+
+A/R
+A/R
+
+/R 
+/R 
+>R 
+/R 
+I/R
+
+Aaphibole group
+
+2.976
+
+3.1
+
+2.76
+2.76
+2.77
+2.77
+
+2.9P 
+3.00
+3.00
+
+3.50
+3.25
+3.15
+
+3.25
+
+3.22
+
+3.12
+
+Sheet silicates
+
+2.83
+2.83
+
+2.831
+
+2.76
+
+2.56
+
+2.78
+2.78
+
+2.85
+2.85
+
+2.77
+2.77
+2.69
+2.69
+2.69
+
+2.815
+
+-20
+
+"20
+
+33
+33
+31
+
+30
+30
+31
+31
+
+35
+
+35
+
+-20
+
+"20
+
+15
+15
+
+30
+30
+32
+32
+'30 
+
+30
+
+32
+
+33
+
+33
+
+29
+
+30
+
+Clark  (1966.  p.  163).  Percy Islands, 
+
+southeast Alaska.  Mean of  3.
+
+Clark  (1966,  p.  163)  after Birch
+
+(unpub.  data).  Bushveld,  Transvaal.
+
+E.G.  Robertaon,  Klukwan,  southeast 
+
+Alaska.  70% auglte,  5?  enstatlte, 
+15$  hornblende,  5% magnetite, 
+5  percent  diopside.  X-ray.  Average 
+xl  diameter  3  mm to 2  cm.
+
+Wards.  Balmat,  N.Y.  White aclcular  xls 
+
+to 3  cm.  X-ray.
+
+Wards.  California.  Medium green. 
+Acicular,  fiberous  xls  to several 
+centimeters.  X-ray.
+
+50
+50
+
+25
+100
+25
+100
+
+31
+
+31
+
+Wards.  Porter,  N.Y.  Brownish black. 
+
+Large cleavage fragments.  X-ray.
+
+Horal  and Simmons  (1969).
+
+Clark  (1966,  p.  163).  Duke Island, 
+
+southeast Alaska.  Mean of 1.
+
+Clark  (1966,  p.  163),  after Birch 
+
+(unpub.  data).
+
+Clark,  1911.
+
+USNM  (90211).  Batenellervllle,  N.Y.
+
+Goldsmld and Bailey  (1960,  p.  865).
+
+Wards.  Quebec.  Dark brown to black. 
+
+Single xl.  X-ray.  6  index  1.572.
+
+USNM(30761)  Burgess,  Ontario.
+
+Wards.  Bancroft,  Ontario.  Black. 
+
+Single  xl.  X-ray. 
+
+6-1.621.
+
+Wards.  Freeman Co.,  Calif.  Purple. 
+
+Single xl.
+
+Wards.  Winnepeg River,  Manitoba. 
+
+Blue flakes.
+
+Wards.  Moore Co.,  N.C.  Light  gray. 
+
+Large sheets.  Highly oriented. 
+X-ray.
+
+1
+680
+
+25
+150
+25
+150
+
+25
+100
+25
+100
+25
+100
+
+25
+150
+
+100
+
+25
+100
+
+25
+100
+
+25
+100
+25
+100
+25
+
+TABLE 1. Thermal conductivity of  rock-forming minerala Continued
+
+Saaple 
+Mo.
+
+Mineral 
+
+Conduc-  Orien-
+tiTlty 
+tatlon
+( cal/ 
+and
+o»«s««C)  state
+
+Porosity 
+(percent)
+
+Density 
+
+Meaa-  Theore- 
+urcd 
+
+tical
+
+035 
+
+Pyrophyllite......... 
+
+670 
+
+Pyrophyllite......... 
+
+528 
+
+Pyrophyllite......... 
+
+    Pyrophyllite......... 
+
+519 
+
+Talc  (Steatite) 
+
+MgjSi»0 10 (OH) 2 . 
+
+525 
+
+Talc  (Steatite)...... 
+
+13.7
+16.1
+15.5
+16.2
+
+11.8 
+12.0 
+
+9.2 
+9.2 
+11.7 
+
+10.1 
+11.0 
+
+11.9
+10.0 
+8.5 
+7.5 
+6.7
+
+1.2 
+1.2 
+22.0 
+23.1 
+
+29.0 
+29.8 
+
+397 
+
+Talc  (Steatite)...... 
+
+23.8 
+
+   Talc................. 
+
+7.1 
+
+    Soapatone............ 
+
+12.0 
+
+A/R
+A/R
+
+A/R
+A/R
+A/S
+
+A/R
+A/R
+
+J/R
+J/R
+II/R
+II/R
+
+||/R
+JI/R
+
+||/R
+
+A
+
+A
+
+    Chlorite............. 
+
+12.5 
+
+A/R
+
+520 
+
+Chlorite............. 
+
+1.6 
+5.0 
+7.2 
+7.3 
+
+A/R
+A/R
+A/R
+A/R
+
+156 
+
+Prochlorite 
+
+Mg^FejAUSiOnfOH)..
+
+10.7 
+
+A/S 
+
+157 
+
+Prochlorite.......... 
+
+522 
+
+Prochlorite.......... 
+
+526 
+
+Clinochlore
+
+Mg$ Al 2Si,0 le (OH)..
+
+135A  Serpentine
+to 
+139B 
+
+Mg.Si I%O le (OH),
+(Antigorite).
+
+3B6 
+
+383 
+
+Serpentine
+
+(Antigorite).
+
+Serpentine
+
+(Williams!te).
+
+9.7 
+
+9.1 
+9.8 
+
+21.3
+25.1
+1.6
+1.8
+
+5.5 
+6.0
+6.5
+6.6
+6.7 
+6.6
+
+5.3
+
+7.1
+
+A/S
+
+A/R
+A/R
+
+I/R 
+I/R 
+/R 
+/R
+
+/S 
+/S 'I/S
+
+A/S
+
+A/S
+
+381 
+
+Serpentine
+
+(Yu  Yen  Stone).
+
+5.6
+
+A/S
+
+2.69
+2.69
+2.72
+2.72
+
+2.77
+2.77
+
+2.62
+2.63
+2.63
+
+3.05
+
+7.5
+
+2.788
+
+2.85
+2.85
+2.85
+2.85
+
+2.73    
+2.73   
+
+2.75
+
+2.79
+
+2.81
+
+2.79
+
+2.89
+2.89
+2.92
+2.92
+
+2.97
+
+2.95
+
+2.59
+2.59
+2.58
+2.58
+
+2.61
+2.61
+2.61
+2.61
+2.61
+2.63
+
+2.66
+
+2.58
+
+2.56
+
+-  2.6
+
+0.7
+
+Pressure 
+
+(bars)
+
+ature 
+CC)
+
+ka
+
+100
+100
+25
+100
+
+25
+100
+
+31
+
+Wards.  Hillaboro,  N.C.  White with red 
+
+stain.  Radiating xls <1  cm.  X-ray.
+
+Wards.  Africa.  Dark gray.  Massive 
+
+wonderstone.  X-ray.
+
+25
+100
+
+Wards.  Hillsboro,  N.C.  Pink acicular 
+
+xls to 8 mm.  Metallic impurity.
+
+Clark  (1966,  p.  170);  from Carte,  1955. 
+Values read from curve.  Conductivity 
+J_  to bedding "0.5  that  of  11.
+
+25
+100
+25
+100
+
+25
+100
+
+50
+
+Murray Co.,  Ga.  Massive,  medium to 
+
+dark green,  transluscent.  X-ray.
+
+Swain Co.,  North Carolina.  White 
+sheetlike.  Translucent.  X-ray.
+
+USNM(18898).  Nantshata,  Swain Co., 
+
+North Carolina.  White.  Weakly 
+translucent.
+
+170 
+
+Birch  (1951,  p.  10).
+
+Clark  (1966,  p.  163);  from Birch 
+
+(unpub.  data.).
+
+Birch  (1951,  p.  10).  Harvard 
+
+Museum.
+
+Wards.  Cotopaxi,  Colo.
+
+USNM(36083).  Southbury,  Conn.
+
+Wards.  Chester,  Vt.  Dark  green, 
+
+massive;  X-ray;  15$  magnetite.
+
+USNM,  Swain  Co.,  North  Caroline. 
+
+green;  single  xl;  X-ray.
+
+Light
+
+Sample  from  H.  H.  Hess  (VI301).  Puerto 
+
+Cabello,  Venezuela.  Massive  aggre(cid:173) 
+gate.
+
+USNM(96916)  Cogne,  Posta  Valley,  Italy. 
+
+Dark  green,  opaque,  probably  impure.
+
+USNM(82513)  Lancaster  Co.,  Pa.  Green, 
+
+Green,  translucent;  5  percent 
+chromite(?)  in  1  mm  xls.
+
+USNM(91356)  Manchuria.  Milky  white; 
+
+uniform;  translucent.
+
+170
+
+25
+100
+25
+100
+
+25
+100
+
+25
+100
+25
+100
+
+50
+
+50
+
+50
+
+50
+
+33
+33
+
+35
+
+30
+
+0
+100
+200
+300
+100
+
+30
+30
+30
+30
+
+29
+29
+
+31
+
+30
+
+30
+
+30
+
+29
+
+30
+
+29
+
+32
+
+31
+
+33
+
+31
+
+

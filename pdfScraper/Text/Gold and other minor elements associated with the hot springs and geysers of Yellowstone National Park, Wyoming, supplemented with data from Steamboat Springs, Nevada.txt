@@ -1,0 +1,480 @@
+Gold  and  Other Minor Elements  Associated 
+with  the  Hot Springs  and  Geysers  of 
+Yellowstone  National  Park,  Wyoming, 
+Supplemented with  Data from 
+Steamboat Springs,  Nevada 
+
+U.S.  GEOLOGICAL  SURVEY  BULLETIN  2001 
+
+AVAILABILITY OF BOOKS AND MAPS OF THE U.S. GEOLOGICAL SURVEY 
+
+Instructions on ordering publications of the U.S. Geological Survey, along with the last offerings, are given in the current-year 
+issues  of the  monthly  catalog  "New  Publications  of the  U.S.  Geological  Survey."  Prices  of available  U.S.  Geological  Survey 
+publications released prior to the current year are listed in the most recent annual "Price and Availability List"  Publications that are 
+listed in various U.S. Geological Survey catalogs (see  back inside cover) but not listed in the most recent annual "Price and Availability 
+List" are no longer available. 
+
+Prices of reports released to the open files are given in the listing "U.S. Geological Survey Open-File Reports," updated monthly, 
+
+which is for sale in microfiche from  U.S. Geological Survey Book and Open-File Report Sales, Box 25425, Denver, CO 80225. 
+
+Order U.S. Geological Survey publications by mail or over the counter from the offices given below. 
+
+BY MAIL 
+Books 
+
+Professional  Papers,  Bulletins,  Water-Supply  Papers, 
+
+Techniques of Water-Resources Investigations, Circulars, pub(cid:173)
+lications of general interest (such as leaflets, pamphlets, book(cid:173)
+lets),  single copies of periodicals  (Earthquakes  &  Volcanoes, 
+Preliminary Determination of Epicenters), and some miscella(cid:173)
+neous reports, including some of the foregoing series that have 
+gone  out  of print  at  the  Superintendent  of  Documents,  are 
+obtainable by mail from 
+
+U.S. Geological Survey, Book and  Open-File Report  Sales 
+
+Box25425 
+
+Denver, CO 80225 
+
+Subscriptions  to  periodicals  (Earthquakes  &  Volcanoes 
+and Preliminary Determination of Epicenters) can be obtained 
+ONLY from 
+
+Superintendent of Documents 
+
+U.S. Government Printing Office 
+
+Washington, DC 20402 
+
+(Check or money order must be payable to Superintendent 
+
+of Documents.) 
+
+Maps 
+
+For maps ,  address mail orders to 
+
+U.S. Geological Survey,  Map Sales 
+
+Box 25286 
+
+Denver,  CO  80225 
+
+Residents of Alaska may order maps from 
+
+U.S.  Geological Survey, Map  Sales 
+
+101  Twelfth Ave.- Box 12 
+
+Fairbanks, AK 99701 
+
+OVER  THE  COUNTER 
+Books 
+
+Books  of the  U.S. Geological Survey are available over 
+the counter at the following U.S. Geological  Survey offices, all 
+of which are authorized agents  of  the Superintendent of Doc(cid:173)
+uments. 
+
+ANCHORAGE, Alaska--4230 University Dr., Rm. 101 
+ANCHORAGE, Alaska--605 West 4th Ave., Rm G-84 
+DENVER, Colorado--Federal Bldg., Rm. 169, 1961 Stout 
+St. 
+LAKEWOOD, Colorado-- Federal Center, Bldg. 810 
+
+MENLO PARK, California--Bldg. 3, Rm. 3128, 345 Mid(cid:173)
+dlefield Rd. 
+RESTON, Virginia--National Center,  Rm.  1C402, 12201 
+Sunrise Valley Dr. 
+SALT LAKE CITY, Utah--Federal Bldg., Rm. 8105, 125 
+South State St. 
+SAN FRANCISCO, California--Customhouse, Rm. 504, 
+555 Battery St. 
+SPOKANE,  Washington--U.S.  Courthouse,  Rm.  678, 
+West 920 Riverside Ave. 
+WASHINGTON,  D.C.--U.S.  Department of the  Interior 
+Bldg., Rm. 2650, 1849 C St., NW. 
+
+Maps 
+
+Maps  may  be  purchased  over  the  counter  at  the  U.S. 
+Geological Survey offices where books are sold (all addresses 
+in above list) and at the following Geological Survey offices: 
+
+ROLLA,  Missouri--1400 Independence Rd. 
+
+FAIRBANKS,  Alaska--New  Federal  Building,  101 
+Twelfth Ave. 
+
+Gold  and  Other Minor Elements  Associated 
+with the  Hot Springs  and  Geysers  of 
+Yellowstone  National  Park,  Wyoming, 
+Supplemented  with  Data from 
+Steamboat Springs,  Nevada 
+
+By  DONALD  E.  WHITE,  CHRIS  HEROPOULOS,  and 
+R.O.  FOURNIER 
+
+U.S.  GEOLOGICAL SURVEY  BULLETIN  2001 
+
+U.S.  DEPARTMENT  OF  THE  INTERIOR 
+MANUEL  LUJAN,  JR.,  Secretary 
+
+U.S.  GEOLOGICAL  SURVEY 
+Dallas  L.  Peck,  Director 
+
+Any  use  of trade,  product,  or firm  names 
+in  this  publication  is  for  descriptive  purposes  only 
+and  does  not  imply endorsement by  the  U.S.  Government 
+
+Text and  illustrations  edited  by  George  A.  Havach 
+
+UNITED  STATES  GOVERNMENT  PRINTING  OFFICE,  WASHINGTON  :  1992 
+
+For  sale  by the 
+Books  and  Open-File  Reports  Section 
+U.S.  Geological  Survey 
+Federal  Center,  Box  25425 
+Denver,  CO  80225 
+
+Library  of Congress  Cataloging-in-Publication  Data 
+
+White,  Donald  Edward,  1914-
+
+Gold and other minor elements associated  with the hot springs and  geysers 
+
+of Yellowstone  National  Park,  Wyoming, supplemented  with data  from 
+Steamboat  Springs,  Nevada I by  Donald  E.  White,  Chris  Heropoulos, and 
+R.O.  Fournier. 
+
+p. 
+
+em.  -
+
+(U.S.  Geological  Survey bulletin ;  2001) 
+
+Includes bibliographical  references. 
+1. Gold ores-Yellowstone National  park.  2.  Gold ores-Nevada(cid:173)
+
+Washoe County.  3.  Hydrothermal deposits-Yellowstone National  Park. 
+4.  Hydrothermal  deposits-Nevada-Washoe County.  I.  Heropoulos,  Chris. 
+II.  Fournier,  R.O.,  Ill. Title.  IV.  Title:  Steamboat  Springs,  Nevada.  V.  Series. 
+QE75B9  no.  2001 
+(QE390.2.G65) 
+557.3  s-dc20 
+[553.4 11 10978752] 
+
+91-29371 
+CIP 
+
+CONTENTS 
+
+Abstract  1 
+Introduction  1 
+Comparison of analytical methods for gold  2 
+Diagenesis of the hydrothermal silica minerals  2 
+Gold and associated elements deposited from  hot-spring systems at Yellowstone 
+
+National Park  4 
+
+Opaline hot-spring sinter  S 
+Chalcedonic sinter deposits  7 
+Gold and associated elements in miscellaneous spring deposits  7 
+Gold and associated elements in miscellaneous materials collected at shallow 
+
+depths  8 
+
+Gold and associated elements in hydrothermal eruption craters  8 
+Gold and associated  elements in core from  drill holes Y-12 and Y-13, 
+
+Norris and Lower Geyser Basins, Yellowstone National Park  9 
+
+Gold in samples from  Steamboat Springs, Nevada  10 
+
+Gold in material precipitated from  hot springs  10 
+Gold and associated elements deposited in three drill holes at Steamboat 
+
+Springs, Nevada  11 
+
+Conclusions, interpretations, and speculations  13 
+References cited  18 
+
+FIGURES 
+
+1. 
+
+Index map of Yellowstone National Park, Wyo.,  showing locations of analyzed 
+samples by thermal area  3 
+
+2.  Plot of solubilities of common silica minerals in water as a function of 
+
+temperature  S 
+
+3.  Geologic sketch map of Steamboat Springs thermal area, Nev.  14 
+4.  Plot of antimony versus gold contents in samples from  Yellowstone National 
+
+Park and Steamboat Springs  16 
+
+5.  Plot of arsenic versus gold contents in samples from  Yellowstone National Park 
+
+and Steamboat Springs  17 
+
+6.  Log-log plot of thallium versus gold contents in samples from  Yellowstone 
+
+National Park and Steamboat Springs  18 
+
+TABLES 
+
+1.  Reported Au contents in some hot-spring deposits of Yellowstone National 
+
+Park, Wyoming, and Steamboat Springs, Nevada  4 
+
+2-9.  Contents of gold and associated elements in: 
+
+2.  Opaline sinters of Yellowstone National Park, Wyoming  6 
+3.  Chalcedonic sinter of Yellowstone National Park, Wyoming  8 
+4.  Miscellaneous spring deposits of Yellowstone National Park, Wyoming  9 
+5.  Miscellaneous near-surface materials from  well-established depths, 
+
+Yellowstone National Park, Wyoming  10 
+
+6.  Samples from  hydrothermal eruption craters of Yellowstone National Park, 
+
+Wyoming  11 
+
+7.  Core from  drill holes Y-12 and Y-13, Norris Geyser Basin and Lower 
+
+Geyser Basin, Yellowstone National Park, Wyoming  12 
+
+8.  Samples from  three drill holes, Steamboat Springs, Nevada, for comparison 
+
+with Yellowstone National-Park, Wyoming  13 
+
+9.  Samples from  Yellowstone National Park, Wyoming, that are relatively 
+
+gold rich  15 
+
+Contents 
+
+Ill 
+
+Gold  and  Other  Minor  Elements  Associated  with  the 
+Hot Springs  and  Geysers  of Yellowstone  National  Park, 
+Wyoming,  Supplemented  with  Data from 
+Steamboat  Springs,  Nevada 
+
+By Donald  E.  White,  Chris  Heropoulos,  and R.O.  Fournier 
+
+Abstract 
+
+A  commonly  held  theory  of  the  origin  of  epithermal 
+ore  deposits  relates  Au,  Ag,  Hg,  As,  Sb,  Tl,  and  other 
+"volatile"  elements to  "fossil"  hot-spring  systems  that trans(cid:173)
+ported  and  deposited  these  metallic  elements  close  to  the 
+ground  surface  existing  at the  time.  In  the  early  1970's,  an 
+emission-spectrographic  method  using short-wavelength  ra(cid:173)
+diation  (SWR)  was  developed  for  use  in  the  analysis  of 
+these  "volatile"  elements.  This  method  was  applied  to  125 
+samples  of  rock  and  hot-spring  chemical  precipitates  from 
+Yellowstone  National  Park  and 43  samples from  Steamboat 
+Springs,  Nev.  The  results  of  those  analyses  are  presented 
+here.  Recently,  other,  more  sensitive  methods  for  the 
+analyses  of  gold  and  volatile  elements  have  been  devel(cid:173)
+oped  and  (or)  become  less  expensive,  but  these  methods 
+generally  have  not  yet  been  applied  to  Yellowstone 
+samples. 
+
+A  few  samples  from  Yellowstone  National  Park  and 
+Steamboat Springs were analyzed  by neutron-activation  (NA) 
+and  SWR  methods,  as  well  as  by  fire  assay.  In  general,  the 
+results  from  the SWR  method  agree  more  closely with  those 
+from  the fire-assay  than  the  NA  method.  Present findings  re(cid:173)
+veal  significant gold  contents  (more  than  0.1  ppm)  in  only a 
+few  samples from  Yellowstone,  but the general  principles  re(cid:173)
+lating  Yellowstone's  hot-spring  and  geyser  activity  to  gold 
+transport  and  deposition  are  of  considerable  interest  as  a 
+guide  to  how gold  deposits  may have formed  elsewhere. 
+
+Concentrations of Sb,  As,  Hg,  B,  Tl,  and  Zn  vary widely 
+with  respect  to  Au  and  each  other  in  the  Yellowstone  and 
+Steamboat Springs  samples.  Although  Au  appears  to  be con(cid:173)
+centrated  in  samples  rich  in  Sb  and  As,  high  Sb  or  As  con(cid:173)
+tents  do  not  necessarily  require  correspondingly  high  Au 
+contents.  Tl  is  10  to  100  times  lower  in  abundance  in  Yel(cid:173)
+lowstone  samples  than  in  Steamboat  Springs  samples.  At 
+Yellowstone,  however,  the best correlation  of Au  with  SWR(cid:173)
+analyzed  metallic elements appears to  be with Tl. 
+
+The distribution  of gold  in  Yellowstone  National  Park  is 
+more  restricted  than  at Steamboat Springs,  possibly  because 
+
+Manuscript approved for publication, June 18,  1991. 
+
+of  greater  dilution  by  a  more  abundant  water  supply  at 
+Yellowstone. 
+
+INTRODUCTION 
+
+A  commonly  held  theory  of the  origin  of epither(cid:173)
+
+mal  ore  deposits  relates  Au,  Ag,  Hg,  As,  Sb,  and  other 
+"volatile"  elements  to  "fossil"  hot-spring  systems  that 
+transported  and  deposited  these  metallic  elements  close 
+to  the  ground  surface  existing  at  the  time.  A  second 
+group  of  epithermal  deposits,  consisting  mainly  of  the 
+base  metals  Cu,  Pb,  Zn,  and  Ag,  is  generally  thought  to 
+form  at  greater  depth  within  hydrothermal  systems. 
+Base-metal deposits are not considered in  this  report,  al(cid:173)
+though  zinc  is  reported  here  as  a trace element.  Silver is 
+commonly present in  both  groups  and generally becomes 
+more  abundant  downward  where  the  base  metals  under(cid:173)
+lie "volatile element" deposits. 
+
+Geologists  and  geochemists  familiar  with  low(cid:173)
+
+grade,  dispersed,  epithermal  gold  deposits  have  applied 
+various  names  to  them,  including  "bulk minable," "sedi(cid:173)
+ment  hosted,"  and  "invisible  gold."  These  types  of  de(cid:173)
+posits  became  the  focus  of exploration  programs  in  the 
+1960's,  when  the  value  of  gold  increased  dramatically. 
+Gold  is  now  routinely  analyzed  at  levels  above  1  part 
+per billion  (ppb) by  neutron-activation  (NA),  and  of 1-2 
+ppb  by  inductively  coupled  plasma  atomic-emission 
+spectroscopic  (ICP-AES),  methods.  In  the  1960's  and 
+1970's, however,  these  analytical  techniques  were  either 
+very  expensive  (NA  method)  or  unavailable  (ICP-AES 
+method),  and  so  the  small  gold  concentrations  in  dis(cid:173)
+persed  deposits  were  seldom  detected  by  the  then(cid:173)
+prevalent  standard  analytical  methods  (fire  assay  and 
+spectrographic).  Therefore,  a  group  of associated  trace 
+elements,  generally  more abundant and more  widely  dis(cid:173)
+tributed  than  Au,  including  Ag,  Hg,  As,  Sb,  and  Tl,  be(cid:173)
+came  useful  indicators  that provide broader  targets  more 
+easily identifiable than Au alone. 
+
+Introduction 
+
+In  the  early  1970's,  a  short-wavelength-radiation 
+(SWR)  emission-spectrographic  method was  developed  by 
+one of us (C.H.) and applied to the analysis of those "vola(cid:173)
+tile"  elements that are transported under conditions similar 
+to  those  for  gold.  This  method  is  as  much  as  100  times 
+more  sensitive  than  conventional  spectrographic  methods. 
+Typical  detection  limits  for  conventional  spectrographic 
+analyses  have  been  lowered  by the  SWR method,  respec(cid:173)
+tively, from  7  to 0.1  ppm for Au, from  700 to  1.0 ppm for 
+As,  and  from  300  to  3  ppm  for  Sb.  The  only  element 
+closely associated with Au that is not determined more re(cid:173)
+liably  by  the  SWR  method  than  by  conventional  spectro(cid:173)
+graphic  methods is Ag;  detection  limits  for  Se, Te, and Bi 
+are also improved. 
+
+Analytical data were compiled over a  time period of 
+about 15 years. Steamboat Springs, Nev., is well known for 
+its current deposition of Au, Ag, Hg, and Sb,  but little  has 
+been published about the distribution of these elements within 
+the  Yellowstone  National  Park  hydrothermal  system.  Al(cid:173)
+though present findings reveal significant gold concentrations 
+(more  than  0.1  ppm)  in  only  a  few  Yellowstone  samples, 
+the general principles relating Yellowstone's hot-spring and 
+geyser activity to gold transport and deposition are of great 
+interest as a  guide to  how gold deposits  may  have formed 
+elsewhere. We realize that many advances have been made 
+in techniques for the rapid analysis or' trace amounts of gold 
+and related elements since our cooperative effort started in 
+the early  1970's, but our results for the broad suite of vola(cid:173)
+tile elements found in the hot-spring deposits at Yellowstone 
+National  Park  and  Steamboat  Springs  are  still  of interest 
+because  the  data  have  general! y  not  been  superseded  by 
+newer analyses. 
+
+The background Au contents of fresh  volcanic rocks 
+of Yellowstone  National  Park  were  carefully  studied  in 
+two  related  reports  by  Gottfried  and  others  (1972)  and 
+Tilling and others  (1973),  utilizing NA analysis  in  combi(cid:173)
+nation  with  fire  assay  for  radiochemical  separation.  The 
+Au  contents  of most  of  Yellowstone's  fresh  rocks  range 
+from  0.1  to  60 ppb  and  average 0.5  ppb;  the  Au  contents 
+of  Yellowstone's  thermal  waters  range  from  less  than 
+0.004  to  0.1  ppb  and  average  about  0.004  ppb  (all  much 
+too low for the SWR method). 
+
+We  make  no  effort  to  duplicate  in  this  report  the 
+careful  background  study  of  the  gold  contents  of fresh 
+rocks  or of water,  as  determined  by Gottfried  and  others 
+(1972)  and  Tilling and others  (1973).  Instead,  we concen(cid:173)
+trate  on  determining  the  gold  contents  of precipitates  and 
+hydrothermally  altered  rocks  within  the  above-described 
+analytical limits of the SWR method. 
+
+The  locations  of sampled  thermal  areas  in  Yellow(cid:173)
+
+stone National Park,  mainly  within  the caldera,  are shown 
+in  figure  1.  The  locations  of Steamboat  Springs  samples 
+were  adequately  described  in  previous  publications 
+(Brannock  and  others,  1948;  White,  1968),  except  that 
+
+analytical  data  on  samples  from  drill  holes  GS-2,  GS-5, 
+and GS-6 are also reported here. 
+
+Acknowledgments.-We  are  grateful  to  the  National 
+Park Service for allowing samples to be collected from  hot 
+springs and for the opportunity provided for research drill(cid:173)
+ing in the park.  The continuing cooperative efforts of R.A. 
+Hutchinson, National Park Service geologist, are especially 
+appreciated  In addition to  many other activities, he helped 
+in  collecting  samples  from  Dantes  Spring  of the  Sylvan 
+Group  of western  Gibbon  Geyser  Basin,  and  from  Beryl 
+Spring in Gibbon Canyon. 
+
+COMPARISON  OF ANALYTICAL  METHODS 
+FOR  GOLD 
+
+A few  samples from  Steamboat Springs and Yellow(cid:173)
+stone National Park were analyzed by NA and SWR meth(cid:173)
+ods,  as  well  as by fire  assay  (table  1).  Au  contents  below 
+0.1  ppm  are  reported  by  the  SWR  method  as  <0.1  (later 
+analyses)  or <0.2 ppm  (earlier analyses).  Only a  few  sam(cid:173)
+ples  of  the  material  analyzed  by  different  methods  were 
+collected  at the  same  time  and  place;  most  samples  were 
+from  common  localities  but  were  collected  on  different 
+dates. 
+
+In  general,  the  results  from  the  SWR  method  agree 
+more  closely  with  those  from  the  fire-assay  than  the  NA 
+method.  The NA results  for  two  samples  from  Steamboat 
+Springs  (W-50  and  W-91)  are  considerably  higher  than 
+those obtained by  the other two  methods.  In contrast,  NA 
+gives  much  lower  values  than  the  other  two  methods  for 
+the  samples  from  Beryl  Spring  in  Yellowstone  National 
+Park (fig.  1). However, the samples from  Beryl Spring that 
+were  analyzed  by  the NA  method  were  collected at a  dif(cid:173)
+ferent  date  and  place  than  the  samples  analyzed  by  the 
+SWR and frre-assay  methods. 
+
+DIAGENESIS  OF THE 
+HYDROTHERMAL  SILICA  MINERALS 
+
+Because of the  close affinity  of gold  with  silica in 
+
+the  veins  of many  deposits,  the  diagenesis  of hydrother(cid:173)
+mal  silica is  considered here before  the  metallic-element 
+analyses  are  discussed.  By  definition,  sinter  (normally, 
+amorphous  opal)  forms  by  direct  chemical  precipitation 
+of Si02 from  hot water discharging at the surface.  As  the 
+hot water cools, the solubility of Si02 decreases, and the 
+solution  becomes  supersaturated,  first  with  respect  to 
+quartz  and  then  to  more  soluble  silica  species  (fig.  2). 
+The  rates  of  polymerization  of  dissolved  silica  and 
+growth of crystalline silica phases decrease drastically as 
+the  temperature  declines  (White  and  others,  1956; 
+Fournier,  1973,  1985;  Rimstidt  and  Barnes,  1980).  Hot 
+
+2 
+
+Gold and Other Minor  Elements Associated with the Hot Springs and Geysers of Yellowstone  National  Park, Wyoming 
+
+

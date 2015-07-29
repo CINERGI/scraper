@@ -1,0 +1,422 @@
+Thermal Effects of Thin igneous Intrusions on 
+Diagenetic Reactions in a Tertiary Basin of 
+Southwestern Washington
+
+U.S. GEOLOGICAL SURVEY BULLETIN 2085-C
+
+JK'
+
+Cover.  Steeply dipping beds (fluvial channel deposits) of the Eocene Puget Group in the 
+upper  part  of  the  Green  River  Gorge  near  Kanaskat,  southeastern  King  County, 
+Washington. Photograph by Samuel Y. Johnson, July  1992.
+
+Thermal Effects of Thin Igneous Intrusions on 
+Diagenetic Reactions in a Tertiary Basin of 
+Southwestern Washington
+
+By Kenneth J.  Esposito and Gene Whitney
+
+EVOLUTION OF SEDIMENTARY BASINS CENOZOIC SEDIMENTARY BASINS 
+IN SOUTHWEST WASHINGTON AND NORTHWEST OREGON
+
+Samuel Y.  Johnson, Project Coordinator
+
+U.S. GEOLOGICAL SURVEY BULLETIN 2085-C
+
+A multidisciplinary approach to research studies of 
+sedimentary rocks and their constituents and the 
+evolution of sedimentary basins,  both ancient and modern
+
+UNITED STATES  GOVERNMENT PRINTING OFFICE, WASHINGTON :  1995
+
+U.S. DEPARTMENT OF THE INTERIOR 
+
+BRUCE BABBITT, Secretary
+
+U.S. GEOLOGICAL SURVEY 
+
+Gordon P. Eaton, Director
+
+For sale by U.S. Geological Survey, Information Services
+
+Box 25286, Federal Center
+
+Denver, CO 80225
+
+Any use of trade, product, or firm names in this publication is for descriptive purposes only and 
+
+does not imply endorsement by the U.S. Government
+
+Library of Congress Cataloging-in-Publication Data
+
+Esposito, Kenneth J.
+
+Thermal effects of thin igneous intrusions on diagenetic reactions in a Tertiary basin of 
+
+94-23449
+CIP
+
+southwestern Washington/by Kenneth J. Esposito and Gene Whitney.
+
+p.  cm. (Evolution of sedimentary basins Cenozoic sedimentary basins in 
+
+southwest Washington and northwest Oregon; C) 
+(U.S.  Geological Survey bulletin; 2085)
+Includes bibliographical references.
+Supt. of Docs, no.: 119.3:2085C
+1.  Intrusions (Geology) Washington (State).  2.  Diagenesis Washington (State). 
+I.  Whitney, 
+
+4.  Geology Washington (State). 
+
+IV.  Series:  U.S. Geological Survey bulletin; 2085. 
+
+II.  Title. 
+
+III.  Series. 
+
+3.  Geology,  Stratigraphic Tertiary. 
+Gene. 
+QE75.B9 no.  2085-C 
+[QE611.5.U6] 
+557.3  s dc20
+[552'.5] 
+
+CONTENTS
+
+Abstract...........................................................................................................................  Cl
+1
+Introduction.................................................................................................................... 
+2
+Tectonic History..................................................................................................... 
+2
+Thermal History...................................................................................................... 
+Stratigraphy............................................................................................................ 
+2
+4
+Previous Work on the Illitization Reaction............................................................ 
+5
+Mineralogy of Illite-Smectite ......................................................................... 
+5
+Illitization in Contact Metamorphic Environments........................................ 
+Materials and Methods ................................................................................................... 
+7
+7
+Sample Acquisition and Preparation ...................................................................... 
+7
+Clay-Mineral Analysis............................................................................................ 
+8
+X-Ray Fluorescence Spectrometry......................................................................... 
+Scanning Electron Microscopy............................................................................... 
+8
+8
+Petrographic Thin-Section  Examination ............................................................... 
+8
+Vitrinite Reflectance............................................................................................... 
+8
+Results............................................................................................................................ 
+Petrography of Igneous Rocks........................................................................................ 
+8
+9
+Diagenesis of Sedimentary Rocks.................................................................................. 
+9
+Clay-Mineral Composition..................................................................................... 
+Variation in Illite-Smectite Expandability.............................................................. 
+9
+Variation in Other Clay Minerals...........................................................................  10
+Variation in Vitrinite Reflectance...........................................................................  11
+Heat-Flow Calculations..................................................................................................  11
+Discussion.......................................................................................................................  22
+Reaction Kinetics....................................................................................................  22
+Factors Affecting Illitization Reaction Rates .........................................................  25
+Calculations of the Extent of the Illitization Reaction ...........................................  25
+Conduction, Diffusion, and Advection Near Intrusions.........................................  29
+Paragenesis of Other Minerals................................................................................  29
+Summary and Conclusions.............................................................................................  34
+References Cited.............................................................................................................  34
+Appendix........................................................................................................................  37
+
+(cid:9)FIGURES
+
+1.  Map of western Washington showing coal rank of Eocene macerals and location of cores examined
+
+(cid:9)for study.................................................................................................................................................................  C3
+4
+2.  Chart showing simplified Tertiary stratigraphy in the Puget Lowland.................................................................. 
+6
+3.  Diagram showing sample locations and distribution of rock types in cores ......................................................... 
+4.  X-ray diffraction pattern showing peak positions used for determining illite-smectite expandability ................. 
+7
+5.  Diagram showing igneous rock identification in terms of total alkalis and silica for samples in study................  10
+6.  Schematic sections of cores WC-83-5 and WC-83-6 showing  position of igneous rocks................................. 
+11
+7.  Diagram showing point-count data and percentage of illite in illite-smectite, core WC-83-6 ............................  12
+8.  Graph showing expandability of illite-smectite, core WC-83-6 ..........................................................................  20
+9.  Scanning electron micrograph showing typical morphology of illite-smectite.....................................................  21
+10.  Graph showing expandability of illite-smectite, core WC-83-5  ..........................................................................  21
+11.  Graph showing percentages of kaolinite and chlorite, core WC-83-6.................................................................  21
+
+III
+
+IV 
+
+CONTENTS
+
+12.  Scanning electron micrograph of kaolinite............................................................................................................  23
+13.  Scanning electron micrograph showing chlorite replacing biotite......................................................  23
+
+14-17.  Graphs showing calculated temperature at various times after emplacement:
+
+14.  Between intrusions 6 and 3 m thick....................................................................................................  24
+15.  Of intrusions in core WC-83-6 ..........................................................................................................  24
+16.  Of 26-m-thick intrusion in core WC-83-5 .........................................................................................  24
+17.  Of  61-m-thick intrusion in core WC-83-5 ........................................................................................  24
+18.  Graph showing calculated illitization reaction extent using only the heat provided by intrusions
+
+matching observed illitization near the intrusions or at the midpint between the intrusions..............  27
+
+19-30.  Graph showing comparison of calculated and observed percent illite in illite-smectite for core:
+
+19.  WC-83-6 using 900°C intrusions for calculations.............................................................................  27
+20.  WC-83-6 using  1,000°C intrusions for calculations..........................................................................  27
+21.  WC-83-6 using  1,100°C intrusions for calculations..........................................................................  28
+22.  WC-83-6 using  1,200°C intrusions for calculations..........................................................................  28
+23.  WC-83-5 using  26-m-thick, 900°C intrusion for calculations  .........................................................  30
+24.  WC-83-5 using 26-m-thick,  1,000°C intrusion for calculations  .......................................................  30
+25.  WC-83-5 using 26-m-thick,  1,100°C intrusion for calculations........................................................  31
+26.  WC-83-5 using 26-m-thick,  1,200°C intrusion for calculations........................................................  31
+27.  WC-83-5 using 61-m-thick, 900°C intrusion for calculations...........................................................  32
+28.  WC-83-5 using 61-m-thick,  1,000°C intrusion for calculations........................................................  32
+29.  WC-83-5 using 61-m-thick,  1,100°C intrusion for calculations........................................................  33
+30.  WC-83-5 using 61-m-thick,  1,200°C intrusion for calculations........................................................  33
+
+TABLES
+
+1.  Lithological and clay mineralogical data and distance to adjacent igneous intrusions for samples from 
+
+core WC-83-6 .......................................................................................................................^^^
+
+2.  Lithological and clay mineralogical data and distance from pluton for samples from core WC-83-5.................  16
+3.  Lithological and clay mineralogical data for samples from core WC-83-17 .......................................................  18
+4.  Mean vitrinite reflectance values for samples from cores WC-83-5, WC-83-6, and WC-83-17.......................  20
+5.  Mathematical relationships for heat-flow calculations...........................................................................................  20
+6.  Values for variables used in heat-flow calculations................................................................................................  22
+7.  Published kinetic values used in the Arrhenius equation for activation energy and pre-exponential function
+
+during illitization.........................................................._ 
+
+26
+8.  Kinetic values used for activation energy and pre-exponential function to calculate illitization  ..........................  29
+
+Thermal Effects of Thin Igneous Intrusions on
+
+Diagenetic Reactions in a Tertiary Basin of
+
+Southwestern Washington
+
+By Kenneth J.  Esposito and Gene Whitney
+
+ABSTRACT
+
+Tertiary  sedimentary  rocks  in  the  Puget  Lowland  of 
+southwestern Washington  are intruded by  thin igneous  sills 
+that  increase  in  both  thickness  and  frequency  toward  the 
+Cascade  Mountains.  Shale,  mudstone,  and  sandstone  were 
+sampled from three drill cores: the core nearest the Cascades 
+contains four basaltic  sills in a 244-m-thick (800 ft)  section, 
+the  second  contains  a  single  basaltic  sill  in  a  457-m-thick 
+(1,500  ft)  section,  and  the  third  contains  no  igneous  sills. 
+Detailed clay-mineral analyses were performed to assess the 
+thermal  influence  of these  igneous  intrusions  on illitization 
+and other clay-mineral reactions in the sedimentary rocks.
+
+The  extent  of illitization  is  a  function  of temperature, 
+which  depends  on  maximum burial  depth  and proximity  to 
+intruded sills.  In the two cores that contain intrusions,  tem(cid:173) 
+peratures resulting from burial to a depth of about 4 km and 
+a geothermal gradient of 35°C/km have produced inter strat(cid:173) 
+ified  illite-smectite  with  about  60-70  percent  illite  layers. 
+The  abundance  of illite  in  illite-smectite  increases  to  about 
+75-95  percent  immediately  adjacent  to  sills.  Furthermore, 
+the  extent  of the  reaction  (or  percentage  of illite  layers  in 
+illite-smectite) is proportional to the thickness of the sill. The 
+third core,  which  is  farthest from  the  Cascade  Range,  con(cid:173) 
+tains  no  sills  and  has  never  been  deeply  buried,  and  only 
+highly smectitic illite-smectite is present.
+
+Modeling  of the  illitization  reaction  using  conductive 
+heat-flow calculations and reaction kinetics confirms that the 
+extent of the illitization reaction as a result of heating by the 
+sills diminishes rapidly away from the sill contact. The intru(cid:173) 
+sions  affect  the  surrounding  rocks  to  a  distance  roughly 
+equivalent to the thickness of the sill.
+
+INTRODUCTION
+
+Smectite converts to  illite  via mixed-layer illite-smec(cid:173) 
+tite in both natural and experimental systems under the influ(cid:173) 
+ence  of  increased  temperature,  and  the  proportion  of 
+smectite  layers  decreases  as  the  reaction  progresses  (Perry
+
+and  Hower,  1970;  Eberl  and  Hower,  1976;  Hower  and 
+others,  1976; Boles and Franks,  1979; Pytte,  1982; Inoue and 
+Utada,  1983;  Ramseyer  and  Boles,  1986;  Buhmann,  1992; 
+Inoue and others,  1992; Velde and Vasseur,  1992; Whitney, 
+1992). In natural systems, the heat that drives the smectite to 
+illite reaction may come from burial, from circulating hydro- 
+thermal fluids, or from igneous bodies. For example, shale in 
+sedimentary basins exhibits a systematic decrease in the per(cid:173) 
+centage of smectite  layers in the  mixed-layer illite-smectite 
+(illite-smectite)  with  increasing  temperature  during  burial 
+(see,  for example,  Perry  and Hower,  1970;  Hower and oth(cid:173) 
+ers,  1976;  Boles  and  Franks,  1979;  Velde  and  Vasseur, 
+1992).  Similar  clay-mineral  reactions  result  from  contact 
+metamorphism,  manifested as  a decrease in the expandabil(cid:173) 
+ity  of  illite-smectite  near  igneous  intrusions  (Pytte,  1982; 
+Buhmann,  1992).  It  has  been  suggested  that  the  illitization 
+reaction  can be  used  as  a low-temperature geothermometer 
+(Hoffman and Hower,  1979; Pollastro,  1993).
+
+We investigated the effects of heat from intrusive rocks 
+on  the illitization reaction by  examining  clay-mineral reac(cid:173) 
+tions in sedimentary rocks near intrusions in a Tertiary basin 
+in  southwestern Washington.  Samples of intrusive  and host 
+sedimentary  rocks  were  obtained  from  three  drill  cores  in 
+Lewis,  Pierce,  and  King  Counties,  southwestern  Washing(cid:173) 
+ton, between the Cascade Range and the Puget Lowland. The 
+intrusive rocks are hosted by the fluvial-deltaic Puget Group, 
+which  consists  dominantly  of  sandstone  and  siltstone  and 
+includes  several  thin  beds  of carbonaceous  shale  and  coal. 
+Several intrusive  sills provide the basis  for determining the 
+extent to which the thermal maturity (increasing percentage 
+of illite  in  illite-smectite)  of the  clays  is  dependent  on  the 
+intercalated intrusions.  Mineralogical  and chemical charac(cid:173) 
+terizations  of  the  clay  minerals  were  used  to  establish 
+illite-smectite composition as a function of distance from the 
+intrusions.  Conductive heat-flow modeling of the intrusions 
+provided a heating profile in the country rock that was then 
+combined with published kinetic expressions for the illitiza(cid:173) 
+tion reaction to determine the extent to which observed ther(cid:173) 
+mal  maturity  patterns  resulted  from  heating  effects  of the 
+thin intrusions.
+
+Cl
+
+C2
+
+CENOZOIC SEDIMENTARY BASINS IN SOUTHWEST WASHINGTON AND NORTHWEST OREGON
+
+Acknowledgments. This  research  was  funded  by  the 
+U.S.  Geological  Survey  Evolution  of  Sedimentary  Basins 
+Program.  We 
+thank  Weyerhauser  Corporation,  and 
+particularly  Peter  Hales,  for  access  to  cores.  Sam  Johnson 
+provided guidance in sampling and geologic background for 
+the  study.  Vito  Nuccio  provided  the  vitrinite  reflectance 
+data.  We  thank  Sam  Johnson  and  Rich  Pollastro  for  con(cid:173) 
+structive reviews.
+
+TECTONIC HISTORY
+
+The geology of western Oregon and Washington exhib(cid:173) 
+its the complex structural, lithological, and sedimentological 
+relationships  characteristic  of  colliding  plate  boundaries. 
+During the Paleocene, low-angle subduction of the Kula and 
+Farallon  oceanic  plates  under  the  westward-moving  North 
+American plate  (Ewing,  1980)  created the  Challis  volcanic 
+arc  system,  which  extended  from  Idaho  to  the  Dakotas 
+(Nilsen  and  McKee,  1979).  The  configuration  of this  sub(cid:173) 
+duction changed in the late Paleocene when basaltic rocks of 
+the Crescent Formation and the Siletz River Volcanics were 
+erupted  as  seamounts  along  the  continental  margin.  The 
+Crescent Formation and the Siletz River Volcanics form the 
+basement of the Oregon and Washington Coast Range. Pub(cid:173) 
+lished models for the origins of these rocks  suggest that (1) 
+they  formed  in  an  intracontinental  rift  setting  somewhat 
+analogous to the volcanism in the Andaman Sea and the Gulf 
+of California (Wells and others,  1984;  Snavely,  1988;  Bab- 
+cock  and  others,  1992)  or  (2)  they  formed  on  a  spreading 
+center between the Kula and Farallon plates and were subse(cid:173) 
+quently accreted to the continental margin by plugging of a 
+subduction zone that resulted in the initiation of a new  sub(cid:173) 
+duction  zone  to  the  west  (Wells  and  others,  1984;  Duncan 
+and  Kulm,  1989).  The  intracontinental  rift  model  predicts 
+that  the  eastern  boundary  of the  rift  province  is  a  dextral 
+strike-slip fault, consistent with the observations of Johnson 
+(1984,  1985) and Johnson and Yount (1992) concerning the 
+structural and  subsidence histories of sedimentary basins in 
+western Washington.
+
+Pre-Tertiary metasedimentary rocks form the basement 
+of the  Cascade  block east  of the  Coast  Range  in  southern 
+Washington.  The  structural boundary  between  the  Cascade 
+and  Coast  Range  provinces  extends  northward through  the 
+southeastern  Puget  Lowland.  This  boundary  is  covered  by 
+Oligocene and younger deposits but on the basis of geophys(cid:173) 
+ical  data  (gravity,  magnetics,  magnetotellurics) 
+(S.Y. 
+Johnson, oral commun.,  1993) is inferred to be about  10-20 
+km (6.2-12.4 mi) west of the borehole sites examined in the 
+study. Eocene sedimentary basins east of this boundary were 
+characterized by rapid subsidence  associated with  transten- 
+sion  and  sedimentary  fill  as  thick  as  6,000  m  (20,000  ft) 
+(Johnson,  1985; Johnson and Yount,  1992). The rocks of the 
+Puget Group examined for this  study make up a part of this 
+thick sedimentary fill.
+
+In the latest Eocene or early Oligocene, following a sig(cid:173) 
+nificant tectonic transition along the continental margin, the 
+Cascade  volcanic  arc  was  initiated.  Since  that  time,  the 
+Cascade foothills  and Coast Range province have occupied 
+part  of  the  Cascade  forearc  basin.  Since  the  Eocene,  the 
+region  has  also  experienced  significant  heterogeneous 
+(decreasing to the east) clockwise rotation (as much as 75°). 
+Several  causes  of rotation  have  been  suggested  (Wells  and 
+Heller,  1988),  including  oblique  subduction  of the  oceanic 
+plates against North America, block rotations between paral(cid:173) 
+lel  and  subparallel  transcurrent faults,  and basin  and  range 
+extension.
+
+THERMAL HISTORY
+
+The  thermal  history  of western  Washington  has  been 
+inferred primarily from the distribution of indicators of ther(cid:173) 
+mal  maturity  in  the  sedimentary rocks  in  the  region.  Mean 
+vitrinite  reflectance  of coal  macerals  is  one  of the  primary 
+methods  for  estimating  thermal  maturity  of  sedimentary 
+rocks  that contain  organic  matter  (Waples,  1985).  Coals  in 
+the  Puget  Lowland  of  Washington  are  mostly  lignite  and 
+subbituminous, but coal rank increases eastward toward the 
+Cascades, where coals are low-volatile bituminous or anthra(cid:173) 
+cite  (Walsh and Lingley,  1991)  (fig.  1).  Walsh  and Lingley 
+(1991) related the regional increase in coal rank toward the 
+Cascades to the elevated heat flow associated with late Oli(cid:173) 
+gocene to  middle Miocene intrusive activity in the Cascade 
+arc. They suggested that this elevated heat flow affected coal 
+rank for a distance of several kilometers. In addition to heat(cid:173) 
+ing  from  burial  and  nearby  intrusions,  other  areas  in  the 
+Pacific  Northwest  also  show  local  evidence  for  convective 
+heating  by  hydrothermal  fluids  (Summer  and  Verosub, 
+1989). Unfortunately, coal beds are not distributed with suf(cid:173) 
+ficient  regularity  or  frequency  to  map  heat  flow  in  any 
+greater detail than at a regional scale.
+
+STRATIGRAPHY
+
+Our research focused on the thermal effects of igneous 
+intrusions  on  the  sedimentary  rocks  of  the  Puget  Group. 
+Because of the complex geology, formation names change in 
+different geographic areas, and a simplified stratigraphic sec(cid:173) 
+tion of local Tertiary formations is represented in figure 2.
+
+The  geology  in  the  study  area,  was  first  described  in 
+detail by Fisher (1957,  1961).  The sedimentary rocks in the 
+area are lithologically similar to the Puget Group to the north 
+in the Black Diamond area where isotopic and paleontologic 
+dates and stratigraphic relationships indicate a middle to late 
+Eocene  age  (Vine,  1962;  Turner  and  others,  1983;  Frizzell 
+and  others,  1984).  The  Puget  Group  consists  of predomi(cid:173) 
+lesser
+nantly  feldspathic  sandstone  and  siltstone  and 
+
+

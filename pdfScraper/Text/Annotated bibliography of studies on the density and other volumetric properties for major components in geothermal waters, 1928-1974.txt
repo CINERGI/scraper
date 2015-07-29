@@ -1,0 +1,254 @@
+Annotated  Bibliography of 
+Studies on the Density and other 
+Volumetric  Properties  for 
+Major Components  in 
+Geothermal Waters  1928-74
+
+GEOLOGICAL  SURVEY  BULLETIN  1417
+
+Annotated  Bibliography of 
+Studies on the Density and other 
+Volumetric  Properties  for 
+Major Components  in 
+Geothermal Waters  1928-74
+
+By  R.  W.  POTTER,  II,  D.  R.  SHAW, and J.  L.  HAAS, JR. 
+
+GEOLOGICAL  SURVEY  BULLETIN  1417
+
+UNITED  STATES  GOVERNMENT  PRINTING  OFFICE,  WASHINGTON  :  1975
+
+i 
+i 
+
+a ti 
+o * * 
+
+IQ 
+
+_, _ 
+/.iOlCOS 
+
+I 
+' 
+
+,  .  rt 
+I  *4vJ 
+
+CQ» \j 
+B"4r 
+vA 
+
+f\ A o o  '
+-s  *» 
+I  E-^S 
+I 
+UUOw
+
+UNITED  STATES  DEPARTMENT OF  THE  INTERIOR
+
+GEOLOGICAL SURVEY 
+
+V.  E.  McKelvey, Director
+
+Library of Congress Cataloging in Publication Data
+
+Potter, Robert W.
+Annotated bibliography of studies on the density and other volumetric properties for
+major components in geothermal waters,  1928-74.
+
+(Geological Survey Bulletin  1417)
+Bibliography:  p.
+Supt. of Docs.  No.:  119.3:1417
+1.  Geothermal resources-Testing-Bibliography.  2.  Mineral waters-Testing-Bibliography. 
+I.  Shaw, Donnie R., joint author.  II.  Haas, John L., joint author.  HI.  Title:  Annotated 
+bibliography of studies on the density...  IV.  Series:  United States.  Geological Survey 
+Bulletin  1417.
+
+QE75.B9No.l417[Z7935]  [GB1199.5] 
+
+557.3'08s[016.551.4'9] 
+
+75-619354
+
+For sale by the  Superintendent of Documents,  U.  S.  Government  Printing Office 
+
+Washington, D.  C.  20402
+
+Stock Number 024-001-02747-0
+
+Contents
+
+Introduction                                    
+
+Experimental  methods                              
+
+Nomenclature                          . .      
+
+Breakdown  of  bibliography  by  chemical  species           
+References cited                                 
+
+Bibliography                                    
+
+Page
+
+1
+
+2
+
+n
+
+5
+17
+
+18
+
+111
+
+ANNOTATED  BIBLIOGRAPHY 
+OF STUDIES ON THE DENSITY
+
+AND  OTHER VOLUMETRIC
+
+PROPERTIES FOR MAJOR COMPONENTS
+
+IN GEOTHERMAL WATERS,  1928-74
+
+BY R. W. POTTER, II, D. R. SHAW, and J. L. HAAS, JR.
+
+Introduction
+
+This  bibliography  supplies an annotated  list  of  references 
+pertaining 
+the  density  of  solutions  of  importance  in 
+geothermal exploration and  energy production.  The  list  has  been 
+restricted 
+to  those  references  containing  data  on  aqueous 
+solutions of  the  following  salts:
+
+to 
+
+HC1
+NaCl
+KC1
+CaCl 2
+FeCl 2
+
+H 2S0 4
+NaHS04
+Na2 S04
+KHSO*
+K 2 SO A
+
+FeS0 4 
+H2 C0 3 
+NaHC0 3 
+Na 2 co 3
+KHC0 3
+
+K 2C0 3
+NaOH
+KOH
+Si02 [aq]
+"sea  water"
+
+Examples 
+
+are 
+
+aluminum 
+
+Other components  in  the  geothermal  waters  are  almost  always 
+minor. 
+compounds*  fluorides,  and 
+bisulfides.  Densities of  these  solutions  have  been  neglected 
+because  1)  data  for  these  components  at  temperatures above  100°C 
+are  uniformly nonexistent,  and  2)  the  salts  are  present  in  such 
+minor  quantities  that  they  will  have  only a  negligible  effect on 
+the  overall  physical  properties  of  the  geothermal  water. 
+The 
+volumetric  properties  of  "sea  water"  and  its concentrates  were 
+included  in  the  literature  search. 
+Sea  water  is  similar  to 
+subsurface  brines  in  that  it  is  dominantly  a  NaCl  brine. 
+However, 
+water  contains  significant  concentrations  of 
+magnesium  and  only  traces  of calcium,  whereas  subsurface  brines
+(contain  significant  concentrations  of  calcium  and  only  traces of 
+magnesium. 
+The  difference  in  the  composition  will  have  a 
+significant  effect  on  the  chemical  properties  of  the  brine,  but
+(only  a  minor effect  on  the  physical  properties such as  density.
+
+sea 
+
+The  period  covered  by  this  report  is  from  1928  to  the 
+[present. 
+Data  available  prior  to  1928  were  evaluated  and  the 
+jresults are  given  in  volume  3  of  the  International  Critical 
+ITables  (National  Research  Council,  1928).  The  list  contained 
+lere  is  as complete  as  a  diligent  search  of  literature  and 
+>ibliographies  would  permit.  With  few  noted exceptions,  copies 
+)f  all  articles  were  used  to  prepare the  annotation. 
+
+The  units
+
+of  measurement  cited  in  the  annotation  are  those used  in  the 
+reference.  No  conversion  to  the  International  System  of  Units 
+(Page  and Vigoureux,  1972) has  been  made because  that  work  would 
+reguire  a  substantial  effort,  delay  publication*  and  impair  the 
+timeliness of  this bibliography.
+
+An  evaluation of  the  guality  of  the  data  given  in  the  cited 
+references  is  beyond  the  scope  of  this report.  The  report  is 
+intended  to  supply  the  national  geothermal  effort  with  an 
+immediate location  of  unevaluated data  for  use  in  preliminary 
+calculations. 
+The  report  will  also  serve  as  a  basis  for 
+preparing  tables  of  the  densities  of  brines  and  for  planning a 
+future  research  effort  on  the  physical  and 
+thermochemical 
+properties  of  brines.  In  the  section,  Breakdown  of  bibliography 
+by  chemical  species,  however,  we  have noted  those  studies  that 
+contain  data  for  temperatures  at  and  greater  than  100°C.  Those 
+studies containing data  for  pressures greater  than  ambient  (that 
+is  for  the  vapor-absent  pressure-temperature region)  are  also 
+flagged separately.
+
+The  bibliography  is  a  first step  toward  satisfying the needs 
+of  scientists  and engineers as  were  expressed  at  the  Conference 
+on  Thermodynamics and National  Energy  Problems (National  Academy 
+of  Sciences,  1974)  and  as  further  amplified  by  the  Ad  Hoc 
+Committee  on  Geothermal  Chemistry (197<t)  convened by  the  0.  S. 
+Support  for  this  work  has  come 
+Atomic  Energy  Commission. 
+exclusively  from  the  U. 
+geothermal 
+research  program.
+
+S.  Geological  Survey's 
+
+Experimental  methods
+
+The  diverse types  of  experimental  methods  and  techniques 
+utilized  to  measure  the density  of  a  brine  are  discribed  briefly 
+below.  This  description is  not  intended  to  be  a  detailed  or 
+exhaustive  treatise  on  how  to  measure  density  and  specific 
+volume,  but rather  generally to  inform  the  reader  of the  meaning 
+of  various  phrases  that  are  used  in  the  text  of  the  annotations 
+to  describe  how  the  particular  set  of  experimental  data  was 
+collected. 
+Because the precision of  the  individual experimental 
+technique  varies widely,  depending  largely  on  the  experimental 
+configuration  and  the  investigator,  no  attempt  was  made  in  this 
+bibliography to  specify the  precision or  accuracy  of  the  sundry 
+methods and  techniques given  below.
+
+The  pycnometer  is  perhaps the  simplest  and  most  commonly 
+used  method  for  directly  measuring  the  density of  a  brine  below 
+100°C.  The  basic  principle of  the  method  is  to  weigh  a  precisely 
+known  volume  of  brine  at  constant  temperature. 
+Knowing  the 
+volume  and  weight  of  that  volume,  the  density  or  specific  volume
+
+
