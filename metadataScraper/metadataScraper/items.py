@@ -17,5 +17,7 @@ class MetadatascraperItem(scrapy.Item):
     download = scrapy.Field()
     catalogItem = scrapy.Field()
     otherLinks = scrapy.Field()
-    # link = scrapy.Field()
+    webUrl = scrapy.Field()
+    abstractCount = scrapy.Field()
     # abstractMissing = scrapy.Field()
+    identifier = scrapy.Field()
