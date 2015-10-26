@@ -1,7 +1,11 @@
 # Metadata Scraper v4
 # Scrapes metadata URLs from http://hydro10.sdsc.edu/metadata/ScienceBase_WAF_dump/
 # Passes URLs to metadata scraper to get links under <gmd:URL> tag, title, author
-# Run in terminal with scrapy crawl metadata
+
+# Run in terminal with scrapy crawl sciencebase -o test.json
+# to redirect stderr to file: text.json &> sciencebase_stderr.txt
+
+
 # SAMPLE OUTPUT can be found in s3output.json
 # Date: July 8 2015
 # Quirk: the TO PARENT DIRECTORY url also gets scraped from hydro10 resulting in
@@ -28,6 +32,8 @@ class MetadataSpider(scrapy.Spider):
     start_urls = [
         "http://hydro10.sdsc.edu/metadata/cuahsi/"
     ]
+    # sciencebase - 1374 output; 626 missing abstract
+    # cuahsi - 93 output; 9 no abstract
 
     def parse(self, response):
         for href in response.xpath("//a/@href"):
@@ -70,7 +76,8 @@ class MetadataSpider(scrapy.Spider):
 
     def abstractChecker(self, response):
         try:
-           abstract = len (response.xpath('//abstract/CharacterString/text()').extract()[0] )
+           abstract = "0"
+           abstract = str(len (response.xpath('//abstract/CharacterString/text()').extract()[0] ))
            if (response.xpath('//abstract/CharacterString/text()').extract() == [u'REQUIRED FIELD']):
                return False, None
            if (response.xpath('//abstract/CharacterString/text()') == None ):
@@ -87,7 +94,8 @@ class MetadataSpider(scrapy.Spider):
             return False, abstract
         #return True, None
 
-
+# Trying to get only 9 abstract < 100 and the no abstracts to print out.
+# Need to find out from terminal output, somefile.txt what scrapy interprets as no abstract -fixed
 '''
            abstract = len (response.xpath('//abstract/CharacterString/text()').extract()[0])
            if (len (abstract) < 500):
