@@ -1,0 +1,1044 @@
+2015-10-16 13:28:20 [scrapy] INFO: Scrapy 1.0.0 started (bot: metadataScraper)
+2015-10-16 13:28:20 [scrapy] INFO: Optional features available: ssl, http11
+2015-10-16 13:28:20 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'metadataScraper.spiders', 'FEED_FORMAT': 'json', 'SPIDER_MODULES': ['metadataScraper.spiders'], 'FEED_URI': 'test2.json', 'BOT_NAME': 'metadataScraper'}
+2015-10-16 13:28:20 [py.warnings] WARNING: :0: UserWarning: You do not have a working installation of the service_identity module: 'No module named service_identity'.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module and a recent enough pyOpenSSL to support it, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+
+2015-10-16 13:28:20 [scrapy] INFO: Enabled extensions: CloseSpider, FeedExporter, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-10-16 13:28:20 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-10-16 13:28:20 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-10-16 13:28:20 [scrapy] INFO: Enabled item pipelines: 
+2015-10-16 13:28:20 [scrapy] INFO: Spider opened
+2015-10-16 13:28:20 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-10-16 13:28:20 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6024
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/> (referer: None)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_52.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_45.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_50.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_49.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_44.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_47.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_48.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_51.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_46.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_43.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_5.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_41.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_40.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_4.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_39.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_91.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_90.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_9.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_89.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_42.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_87.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_88.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_86.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_85.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_83.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_84.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_81.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_82.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_80.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_8.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_79.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_78.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_77.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_76.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_75.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_74.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_71.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_72.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [sciencebase] INFO: cinergi:cuahsi_his:MPE
+2015-10-16 13:28:20 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_52.xml>
+{'abstractCount': 487,
+ 'identifier': u'cinergi:cuahsi_his:MPE',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=84',
+ 'title': [u'Multi-sensor Precipitation Estimates -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_52.xml'}
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_73.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_70.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [sciencebase] INFO: cinergi:cuahsi_his:HYDRODATACZ-HR
+2015-10-16 13:28:20 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_45.xml>
+{'abstractCount': 78,
+ 'identifier': u'cinergi:cuahsi_his:HYDRODATACZ-HR',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=354',
+ 'title': [u'Hydrodata.cz Hourly Observations -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_45.xml'}
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_69.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_7.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_68.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [sciencebase] INFO: cinergi:cuahsi_his:SRBHOS
+2015-10-16 13:28:20 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_50.xml>
+{'abstractCount': 555,
+ 'identifier': u'cinergi:cuahsi_his:SRBHOS',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=30',
+ 'title': [u'Susquehanna River Basin Hydrologic Observatory  -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_50.xml'}
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_66.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_67.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:20 [sciencebase] INFO: cinergi:cuahsi_his:YDS_BYU
+2015-10-16 13:28:20 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_49.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:20 [sciencebase] INFO: cinergi:cuahsi_his:lnf_hydro
+2015-10-16 13:28:20 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_44.xml>
+{'abstractCount': 1529,
+ 'identifier': u'cinergi:cuahsi_his:lnf_hydro',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=4561',
+ 'title': [u'Lassen National Forest -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_44.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Swedish Monitoring Data
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_47.xml>
+{'abstractCount': 92,
+ 'identifier': u'cinergi:cuahsi_his:Swedish Monitoring Data',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=431',
+ 'title': [u'Swedish Monitoring Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_47.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_60.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_65.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_62.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_61.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_63.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_64.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:urbanwaterapi
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_48.xml>
+{'abstractCount': 205,
+ 'identifier': u'cinergi:cuahsi_his:urbanwaterapi',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=4562',
+ 'title': [u'Southwest Pennsylvania Urban Waters -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_48.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:LittleBearRiver
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_51.xml>
+{'abstractCount': 277,
+ 'identifier': u'cinergi:cuahsi_his:LittleBearRiver',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=52',
+ 'title': [u'Little Bear River Experimental Watershed, Northern Utah, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_51.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Panola ODM
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_46.xml>
+{'abstractCount': 140,
+ 'identifier': u'cinergi:cuahsi_his:Panola ODM',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=385',
+ 'title': [u'Panola Chemistry Data for EMMA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_46.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_6.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_59.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UBWPAD
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_43.xml>
+{'abstractCount': 1258,
+ 'identifier': u'cinergi:cuahsi_his:UBWPAD',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=489',
+ 'title': [u'Upper Blackstone Water Pollution Abatement District -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_43.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ABHYD02
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_5.xml>
+{'abstractCount': 220,
+ 'identifier': u'cinergi:cuahsi_his:ABHYD02',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=287',
+ 'title': [u'Tarland Catchment Water Quality Data, Scotland, UK -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_5.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:FL_RainSRWMD
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_41.xml>
+{'abstractCount': 153,
+ 'identifier': u'cinergi:cuahsi_his:FL_RainSRWMD',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=484',
+ 'title': [u'FL Rain gages - Santa Fe River Basin, 13 stations SRWMD -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_41.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:FL_SurfwaterSRWMD
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_40.xml>
+{'abstractCount': 159,
+ 'identifier': u'cinergi:cuahsi_his:FL_SurfwaterSRWMD',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=483',
+ 'title': [u'FL Stream gages - Santa Fe River Basin, select stations SRWMD -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_40.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ABHYD01
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_4.xml>
+{'abstractCount': 220,
+ 'identifier': u'cinergi:cuahsi_his:ABHYD01',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=286',
+ 'title': [u'Tarland Catchment Hydrology Data, Scotland, UK -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_4.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Baltimore Ecosystem Study LTER
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_39.xml>
+{'abstractCount': 1455,
+ 'identifier': u'cinergi:cuahsi_his:Baltimore Ecosystem Study LTER',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=451',
+ 'title': [u'Baltimore, Maryland Observational Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_39.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:CedarRiver
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_91.xml>
+{'abstractCount': 1099,
+ 'identifier': u'cinergi:cuahsi_his:CedarRiver',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=4569',
+ 'title': [u'Cedar River Watershed Forest Snow Observations -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_91.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Weiherbach
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_90.xml>
+{'abstractCount': 522,
+ 'identifier': u'cinergi:cuahsi_his:Weiherbach',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=221',
+ 'title': [u'Weiherbach catchment long-Term monitoring data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_90.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NWISGW
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_9.xml>
+{'abstractCount': 315,
+ 'identifier': u'cinergi:cuahsi_his:NWISGW',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=8',
+ 'title': [u'NWIS Ground Water Level -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_9.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_58.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_57.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_55.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_54.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Hassberge
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_89.xml>
+{'abstractCount': 244,
+ 'identifier': u'cinergi:cuahsi_his:Hassberge',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=220',
+ 'title': [u'Hassberge catchment long-Term monitoring data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_89.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:FL_GWLSRWMD
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_42.xml>
+{'abstractCount': 149,
+ 'identifier': u'cinergi:cuahsi_his:FL_GWLSRWMD',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=485',
+ 'title': [u'FL Groundwater levels - Suwannee River Basin, SRWMD -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_42.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:RVCA_WQuality
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_87.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:TuolumneMdw
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_88.xml>
+{'abstractCount': 709,
+ 'identifier': u'cinergi:cuahsi_his:TuolumneMdw',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=219',
+ 'title': [u'Mountain Meadow Restoration with a Changing Climate -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_88.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:LaSelvastreamdischarge
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_86.xml>
+{'abstractCount': 752,
+ 'identifier': u'cinergi:cuahsi_his:LaSelvastreamdischarge',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=217',
+ 'title': [u'La Selva Hydrologic Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_86.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:EFW
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_85.xml>
+{'abstractCount': 84,
+ 'identifier': u'cinergi:cuahsi_his:EFW',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=216',
+ 'title': [u'EPA - East Fork Watershed in Ohio -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_85.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UMass_ARM
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_83.xml>
+{'abstractCount': 326,
+ 'identifier': u'cinergi:cuahsi_his:UMass_ARM',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=198',
+ 'title': [u'WRRC Acid Rain Monitoring Project -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_83.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:SRB
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_84.xml>
+{'abstractCount': 524,
+ 'identifier': u'cinergi:cuahsi_his:SRB',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=199',
+ 'title': [u'Snake River Basin, Modeled Streamflow -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_84.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:RioGrandeETWells
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_81.xml>
+{'abstractCount': 768,
+ 'identifier': u'cinergi:cuahsi_his:RioGrandeETWells',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=191',
+ 'title': [u'Rio-ET Wells: Groundwater wells in the Middle Rio Grande -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_81.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:HCLIMATE
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_82.xml>
+{'abstractCount': 416,
+ 'identifier': u'cinergi:cuahsi_his:HCLIMATE',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=196',
+ 'title': [u'Central European Climate Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_82.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NWS_WGRFC_Daily_MPE_Recent_Values
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_80.xml>
+{'abstractCount': 448,
+ 'identifier': u'cinergi:cuahsi_his:NWS_WGRFC_Daily_MPE_Recent_Values',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=189',
+ 'title': [u'NWS-WGRFC Daily Multi-sensor Precipitation Estimates Recent Values -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_80.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_38.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_37.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:vtrain
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_8.xml>
+{'abstractCount': 1121,
+ 'identifier': u'cinergi:cuahsi_his:vtrain',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=299',
+ 'title': [u'Vietnam Precipitation 1975-2006 -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_8.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:PWP
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_79.xml>
+{'abstractCount': 610,
+ 'identifier': u'cinergi:cuahsi_his:PWP',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=140',
+ 'title': [u'Portneuf Watershed Observations, Idaho -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_79.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NPCA
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_78.xml>
+{'abstractCount': 253,
+ 'identifier': u'cinergi:cuahsi_his:NPCA',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=129',
+ 'title': [u'Niagara Peninsula Conservation Authority Water Quantity Data Service -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_78.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:LoganRiver
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_77.xml>
+{'abstractCount': 137,
+ 'identifier': u'cinergi:cuahsi_his:LoganRiver',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=128',
+ 'title': [u'Logan River Observations, Northern Utah, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_77.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ODMDCEW2
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_76.xml>
+{'abstractCount': 480,
+ 'identifier': u'cinergi:cuahsi_his:ODMDCEW2',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=122',
+ 'title': [u'Dry Creek Experimental Watershed, SW Idaho -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_76.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:RushValley
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_75.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Red Butte Creek GAMUT
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_74.xml>
+{'abstractCount': 639,
+ 'identifier': u'cinergi:cuahsi_his:Red Butte Creek GAMUT',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3568',
+ 'title': [u'Red Butte Creek GAMUT, Utah, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_74.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:aquagis
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_71.xml>
+{'abstractCount': 316,
+ 'identifier': u'cinergi:cuahsi_his:aquagis',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3556',
+ 'title': [u'AquaGIS Service -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_71.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Logan River GAMUT
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_72.xml>
+{'abstractCount': 639,
+ 'identifier': u'cinergi:cuahsi_his:Logan River GAMUT',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3566',
+ 'title': [u'Logan River GAMUT, Utah, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_72.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Provo River GAMUT
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_73.xml>
+{'abstractCount': 639,
+ 'identifier': u'cinergi:cuahsi_his:Provo River GAMUT',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3567',
+ 'title': [u'Provo River GAMUT, Utah, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_73.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GLEON_Dorset
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_70.xml>
+{'abstractCount': 638,
+ 'identifier': u'cinergi:cuahsi_his:GLEON_Dorset',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3555',
+ 'title': [u'Dorset Environmental Science Centre -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_70.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GLEON_Sunapee
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_69.xml>
+{'abstractCount': 900,
+ 'identifier': u'cinergi:cuahsi_his:GLEON_Sunapee',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3553',
+ 'title': [u'Lake Sunapee, NH, USA, Instrumented Buoy -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_69.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UF_SFe
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_7.xml>
+{'abstractCount': 432,
+ 'identifier': u'cinergi:cuahsi_his:UF_SFe',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=295',
+ 'title': [u'Florida Santa Fe River Basin CTD Sondes  -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_7.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GLEON_Auburn
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_68.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GLEON
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_66.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GlobalRiversObservatory
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_67.xml>
+{'abstractCount': 1194,
+ 'identifier': u'cinergi:cuahsi_his:GlobalRiversObservatory',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3534',
+ 'title': [u'Global Rivers Observatory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_67.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UCRB_NCDC
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_60.xml>
+{'abstractCount': 480,
+ 'identifier': u'cinergi:cuahsi_his:UCRB_NCDC',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=242',
+ 'title': [u'NCDC Upper Colorado River Basin Precipitation -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_60.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:WW2100 OHIS
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_65.xml>
+{'abstractCount': 444,
+ 'identifier': u'cinergi:cuahsi_his:WW2100 OHIS',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=2501',
+ 'title': [u'Willamette Water 2100 -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_65.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UCRB_SNODAS_HUC10
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_62.xml>
+{'abstractCount': 1630,
+ 'identifier': u'cinergi:cuahsi_his:UCRB_SNODAS_HUC10',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=244',
+ 'title': [u'SNODAS HUC 10 Model Results -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_62.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UCRB_SNODAS_HUC8
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_61.xml>
+{'abstractCount': 1630,
+ 'identifier': u'cinergi:cuahsi_his:UCRB_SNODAS_HUC8',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=243',
+ 'title': [u'SNODAS HUC 8 Model Results -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_61.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:OGIMET-ARCTIC
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_63.xml>
+{'abstractCount': 578,
+ 'identifier': u'cinergi:cuahsi_his:OGIMET-ARCTIC',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=310',
+ 'title': [u'OGIMET Arctic Climate Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_63.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:HYDRODATACZ-D
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_64.xml>
+{'abstractCount': 917,
+ 'identifier': u'cinergi:cuahsi_his:HYDRODATACZ-D',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=320',
+ 'title': [u'Hydrodata.cz daily data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_64.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_36.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_35.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_34.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_33.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:IEER at Wilkes University
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_6.xml>
+{'abstractCount': 1117,
+ 'identifier': u'cinergi:cuahsi_his:IEER at Wilkes University',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=292',
+ 'title': [u'The Institute for Energy & Environmental Research at Wilkes University -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_6.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:SNOTEL
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_59.xml>
+{'abstractCount': 582,
+ 'identifier': u'cinergi:cuahsi_his:SNOTEL',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=241',
+ 'title': [u'NRCS SNOTEL Standard Variables -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_59.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_32.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_31.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UCRB_USBR
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_58.xml>
+{'abstractCount': 484,
+ 'identifier': u'cinergi:cuahsi_his:UCRB_USBR',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=240',
+ 'title': [u'USBR Upper Colorado River Basin Reservoir Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_58.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GHCN
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_57.xml>
+{'abstractCount': 248,
+ 'identifier': u'cinergi:cuahsi_his:GHCN',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=229',
+ 'title': [u'GHCN Daily Climate Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_57.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:USACE_Data
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_55.xml>
+{'abstractCount': 80,
+ 'identifier': u'cinergi:cuahsi_his:USACE_Data',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=227',
+ 'title': [u'USACE Hourly Reservoir Discharges values  -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_55.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:LMRFC_Data
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_54.xml>
+{'abstractCount': 456,
+ 'identifier': u'cinergi:cuahsi_his:LMRFC_Data',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=226',
+ 'title': [u'NWS-LMRFC Hourly Multi Sensor Precipitation Estimates -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_54.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_30.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_3.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_29.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:TAHMO
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_38.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_merced
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_37.xml>
+{'abstractCount': 1033,
+ 'identifier': u'cinergi:cuahsi_his:czo_merced',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=161',
+ 'title': [u'Southern Sierra Critical Zone Observatory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_37.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_25.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_27.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_26.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_24.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_23.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_28.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_22.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_21.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_luquillo
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_36.xml>
+{'abstractCount': 1802,
+ 'identifier': u'cinergi:cuahsi_his:czo_luquillo',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=160',
+ 'title': [u'Luquillo Critical Zone Observatory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_36.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_2.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_19.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_20.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_boulder
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_35.xml>
+{'abstractCount': 1158,
+ 'identifier': u'cinergi:cuahsi_his:czo_boulder',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=159',
+ 'title': [u'Boulder Creek Critical Zone Observatory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_35.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_ariz
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_34.xml>
+{'abstractCount': 3864,
+ 'identifier': u'cinergi:cuahsi_his:czo_ariz',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=158',
+ 'title': [u'Jemez River Basin & SCM CZO -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_34.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_17.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_16.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_18.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:RioGrandeET
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_33.xml>
+{'abstractCount': 770,
+ 'identifier': u'cinergi:cuahsi_his:RioGrandeET',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=152',
+ 'title': [u'Rio-ET: Evapotranspiration Studies in the Middle Rio Grande -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_33.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_15.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NWS-WGRFC_Hourly_MPE
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_32.xml>
+{'abstractCount': 491,
+ 'identifier': u'cinergi:cuahsi_his:NWS-WGRFC_Hourly_MPE',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=187',
+ 'title': [u'NWS-WGRFC Hourly Multi-sensor Precipitation Estimates -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_32.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GlacialRidge
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_31.xml>
+{'abstractCount': 575,
+ 'identifier': u'cinergi:cuahsi_his:GlacialRidge',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=185',
+ 'title': [u'Glacial Ridge Project -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_31.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_14.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:MuddyRiver
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_30.xml>
+{'abstractCount': 1519,
+ 'identifier': u'cinergi:cuahsi_his:MuddyRiver',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=181',
+ 'title': [u'Muddy River Water Quality Monitoring Project -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_30.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GAMA_SAIH
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_3.xml>
+{'abstractCount': 332,
+ 'identifier': u'cinergi:cuahsi_his:GAMA_SAIH',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=283',
+ 'title': [u'UPM / GAMA - SAIH network, Spain  -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_3.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_catalina
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_29.xml>
+{'abstractCount': 3871,
+ 'identifier': u'cinergi:cuahsi_his:czo_catalina',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=177',
+ 'title': [u'JRB & Santa Catalina Mountains CZO -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_29.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NPCAQUAL
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_25.xml>
+{'abstractCount': 122,
+ 'identifier': u'cinergi:cuahsi_his:NPCAQUAL',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=171',
+ 'title': [u'Niagara Peninsula Conservation Authority Water Quality Data Service -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_25.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_11.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ODMPMRW2
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_27.xml>
+{'abstractCount': 193,
+ 'identifier': u'cinergi:cuahsi_his:ODMPMRW2',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=174',
+ 'title': [u'Panola Mountain Research Watershed, Georgia -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_27.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_12.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_1.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ODMRCEW2
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_26.xml>
+{'abstractCount': 211,
+ 'identifier': u'cinergi:cuahsi_his:ODMRCEW2',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=173',
+ 'title': [u'Reynolds Creek Experimental Watershed, SW Idaho -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_26.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_udel
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_24.xml>
+{'abstractCount': 4529,
+ 'identifier': u'cinergi:cuahsi_his:czo_udel',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=163',
+ 'title': [u'Christina River Basin Critical Zone Observatory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_24.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:czo_psu
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_23.xml>
+{'abstractCount': 2015,
+ 'identifier': u'cinergi:cuahsi_his:czo_psu',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=162',
+ 'title': [u'Susquehanna Shale Hills CZO -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_23.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Benthic
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_28.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Kansas Weather Data
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_22.xml>
+{'abstractCount': 260,
+ 'identifier': u'cinergi:cuahsi_his:Kansas Weather Data',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=269',
+ 'title': [u'Kansas State University Daily Weather Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_22.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NLDAS_FORA
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_21.xml>
+{'abstractCount': 1615,
+ 'identifier': u'cinergi:cuahsi_his:NLDAS_FORA',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=267',
+ 'title': [u'NLDAS Hourly Primary Forcing Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_21.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:CanTho1
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_2.xml>
+{'abstractCount': 85,
+ 'identifier': u'cinergi:cuahsi_his:CanTho1',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=282',
+ 'title': [u'Can Tho University Salinity Study -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_2.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:LUWL
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_19.xml>
+{'abstractCount': 140,
+ 'identifier': u'cinergi:cuahsi_his:LUWL',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=261',
+ 'title': [u'Lahti Urban Water Laboratory -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_19.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GLDAS_NOAH
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_20.xml>
+{'abstractCount': 1615,
+ 'identifier': u'cinergi:cuahsi_his:GLDAS_NOAH',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=262',
+ 'title': [u'GLDAS 3-hourly Noah Data  -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_20.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:CIMA1
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_17.xml>
+{'abstractCount': 362,
+ 'identifier': u'cinergi:cuahsi_his:CIMA1',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=258',
+ 'title': [u'CIMA1 -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_17.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:Vigicrues Meteo FR
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_16.xml>
+{'abstractCount': 246,
+ 'identifier': u'cinergi:cuahsi_his:Vigicrues Meteo FR',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=257',
+ 'title': [u'DRIHM-FRANCE -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_16.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:RHMSS1
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_18.xml>
+{'abstractCount': 46,
+ 'identifier': u'cinergi:cuahsi_his:RHMSS1',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=259',
+ 'title': [u'RHMSS -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_18.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:IRWA
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_15.xml>
+{'abstractCount': 532,
+ 'identifier': u'cinergi:cuahsi_his:IRWA',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=247',
+ 'title': [u'Ipswich River Watershed Association -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_15.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:UCRB_NIDIS
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_14.xml>
+{'abstractCount': 914,
+ 'identifier': u'cinergi:cuahsi_his:UCRB_NIDIS',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=246',
+ 'title': [u'NIDIS Upper Colorado River Basin Drought Index Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_14.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_56.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_53.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NADP
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_11.xml>
+{'abstractCount': 1007,
+ 'identifier': u'cinergi:cuahsi_his:NADP',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=24',
+ 'title': [u'National Atmospheric Deposition Program -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_11.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:NWISUV
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_12.xml>
+{'abstractCount': 312,
+ 'identifier': u'cinergi:cuahsi_his:NWISUV',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=3',
+ 'title': [u'NWIS Unit Values -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_12.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:GIL_BYU
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_1.xml>
+{'abstractCount': 1449,
+ 'identifier': u'cinergi:cuahsi_his:GIL_BYU',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=276',
+ 'title': [u'Gill Ecosystem and Global Change Ecology Lab-BYU -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_1.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: None
+2015-10-16 13:28:21 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:ShaleNetworkODM
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_56.xml>
+{'abstractCount': 1129,
+ 'identifier': u'cinergi:cuahsi_his:ShaleNetworkODM',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=228',
+ 'title': [u'Shale Network -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_56.xml'}
+2015-10-16 13:28:21 [sciencebase] INFO: cinergi:cuahsi_his:MAST
+2015-10-16 13:28:21 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_53.xml>
+{'abstractCount': 230,
+ 'identifier': u'cinergi:cuahsi_his:MAST',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=95',
+ 'title': [u'MAST -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_53.xml'}
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_13.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_10.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:21 [scrapy] DEBUG: Crawled (200) <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_0.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+2015-10-16 13:28:22 [sciencebase] INFO: cinergi:cuahsi_his:EPA
+2015-10-16 13:28:22 [scrapy] ERROR: Spider error processing <GET http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_13.xml> (referer: http://hydro10.sdsc.edu/metadata/cuahsi/)
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/offsite.py", line 28, in process_spider_output
+    for x in result:
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/usr/local/lib/python2.7/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 46, in parse_metadata
+    hasAbstract, abstract = self.abstractChecker(response)
+  File "/Users/aarongong/PycharmProjects/scraper/metadataScraper/metadataScraper/spiders/metadata_spider4.py", line 85, in abstractChecker
+    return False, abstract  # error abstract #return true
+UnboundLocalError: local variable 'abstract' referenced before assignment
+2015-10-16 13:28:22 [sciencebase] INFO: cinergi:cuahsi_his:MudLake
+2015-10-16 13:28:22 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_10.xml>
+{'abstractCount': 1199,
+ 'identifier': u'cinergi:cuahsi_his:MudLake',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=12',
+ 'title': [u'Mud Lake, Idaho, USA -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_10.xml'}
+2015-10-16 13:28:22 [sciencebase] INFO: cinergi:cuahsi_his:NLDAS_NOAH
+2015-10-16 13:28:22 [scrapy] DEBUG: Scraped from <200 http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_0.xml>
+{'abstractCount': 1615,
+ 'identifier': u'cinergi:cuahsi_his:NLDAS_NOAH',
+ 'otherLinks': u'http://hiscentral.cuahsi.org/pub_network.aspx?n=274',
+ 'title': [u'NLDAS Hourly NOAH Data -- CUAHSI WaterOneFlow Service',
+           u'CINERGI Resource Types',
+           u'CUAHSI Variable Vocabulary (Controlled)'],
+ 'webUrl': 'http://hydro10.sdsc.edu/metadata/cuahsi/cuahsi_0.xml'}
+2015-10-16 13:28:22 [scrapy] INFO: Closing spider (finished)
+2015-10-16 13:28:22 [scrapy] INFO: Stored json feed (84 items) in: test2.json
+2015-10-16 13:28:22 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 27542,
+ 'downloader/request_count': 94,
+ 'downloader/request_method_count/GET': 94,
+ 'downloader/response_bytes': 4390656,
+ 'downloader/response_count': 94,
+ 'downloader/response_status_count/200': 94,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 10, 16, 20, 28, 22, 63012),
+ 'item_scraped_count': 84,
+ 'log_count/DEBUG': 179,
+ 'log_count/ERROR': 9,
+ 'log_count/INFO': 101,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 94,
+ 'scheduler/dequeued': 94,
+ 'scheduler/dequeued/memory': 94,
+ 'scheduler/enqueued': 94,
+ 'scheduler/enqueued/memory': 94,
+ 'spider_exceptions/UnboundLocalError': 9,
+ 'start_time': datetime.datetime(2015, 10, 16, 20, 28, 20, 702460)}
+2015-10-16 13:28:22 [scrapy] INFO: Spider closed (finished)
